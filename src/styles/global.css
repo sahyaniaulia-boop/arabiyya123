@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+:root{font-family:"Plus Jakarta Sans",sans-serif;color:#20372e;background:#fbfaf6;font-synthesis:none;text-rendering:optimizeLegibility}
+*{box-sizing:border-box}body{margin:0;min-width:320px}a{color:inherit;text-decoration:none}button,input,select{font:inherit}
+.arabic{font-family:"Amiri",serif;direction:rtl;line-height:1.9}
+.container{width:min(1160px,calc(100% - 40px));margin-inline:auto}
+.site-header{height:74px;display:flex;align-items:center;background:#fff;border-bottom:1px solid #e9eee8;position:sticky;top:0;z-index:30}
+.brand{font-size:1.35rem;font-weight:800;letter-spacing:-.04em;color:#164e42}.brand span{color:#d7a64a}
+.nav-link{font-size:.88rem;color:#62736a;font-weight:700}.nav-link:hover,.nav-link.active{color:#164e42}
+.btn-primary,.btn-secondary{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 18px;border-radius:13px;font-weight:800;cursor:pointer;transition:.2s}
+.btn-primary{background:#164e42;color:white;border:1px solid #164e42}.btn-primary:hover{background:#103a31;transform:translateY(-1px)}
+.btn-secondary{background:white;color:#164e42;border:1px solid #dce5dc}.btn-secondary:hover{background:#f0f5ef}
+.card{background:#fff;border:1px solid #e8ede6;border-radius:20px;box-shadow:0 8px 26px rgba(28,57,43,.045)}
+.eyebrow{font-size:.73rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#b18432}
+.muted{color:#718078}.hero{background:linear-gradient(120deg,#f0f5eb,#fbf5e8);border-radius:28px;overflow:hidden}
+.arabic-large{font-family:"Amiri",serif;font-size:3rem;direction:rtl;line-height:1.7}
+.category-icon{height:58px;width:58px;display:grid;place-items:center;border-radius:17px;font-size:1.8rem;background:#f0f4ed}
+.audio-btn{height:44px;width:44px;border:0;border-radius:50%;background:#164e42;color:white;display:grid;place-items:center;cursor:pointer}
+.audio-btn:hover{background:#103a31}.input{border:1px solid #dfe7df;border-radius:12px;padding:12px 14px;background:#fff;width:100%;outline:none}.input:focus{border-color:#164e42;box-shadow:0 0 0 3px #164e4215}
+footer{background:#173f35;color:#e7eee9}
+@media(max-width:700px){.container{width:calc(100% - 28px)}.site-header{height:66px}.desktop-nav{display:none}.hero{border-radius:20px}.arabic-large{font-size:2.5rem}}

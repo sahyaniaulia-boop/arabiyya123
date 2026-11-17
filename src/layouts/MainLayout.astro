@@ -1,0 +1,14 @@
+---
+import "../styles/global.css";
+const { title = "Arabiyya | Media Pembelajaran Bahasa Arab", description = "Belajar kosakata bahasa Arab melalui gambar, audio, dan kuis interaktif." } = Astro.props;
+---
+<!doctype html><html lang="id"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><meta name="theme-color" content="#164e42"/><title>{title}</title></head>
+<body>
+<header class="site-header"><div class="container flex items-center justify-between">
+<a href="/" class="brand">📖 arabiyya<span>.</span></a>
+<nav class="desktop-nav flex items-center gap-7"><a class="nav-link" href="/">Beranda</a><a class="nav-link" href="/vocabulary/">Kosakata</a><a class="nav-link" href="/quiz/">Kuis</a><a class="nav-link" href="/progress/">Progres</a><a class="nav-link" href="/materials/">Materi</a><a class="nav-link" href="/about/">Tentang</a></nav>
+<a href="/vocabulary/" class="btn-primary text-sm">Mulai belajar →</a>
+</div></header>
+<slot/>
+<footer class="mt-20 py-10"><div class="container flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between"><div><div class="text-xl font-extrabold">📖 arabiyya<span class="text-amber-300">.</span></div><p class="mt-2 text-sm text-emerald-100/70">Belajar bahasa Arab, satu kata setiap hari.</p></div><p class="text-xs text-emerald-100/60">Bahasa Arab Fuṣḥā • Media belajar mandiri • © 2026</p></div></footer>
+</body></html>

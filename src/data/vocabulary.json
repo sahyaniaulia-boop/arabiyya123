@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "family-01",
+    "slug": "family-01",
+    "category": "family",
+    "arabic": "أَبٌ",
+    "transliteration": "abun",
+    "translation": "Ayah",
+    "emoji": "👨",
+    "image": "/images/family/family-01.svg",
+    "audio": "/audio/family/family-01.mp3",
+    "example": {
+      "arabic": "هَذَا أَبِي",
+      "translation": "Ini ayahku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-02",
+    "slug": "family-02",
+    "category": "family",
+    "arabic": "أُمٌّ",
+    "transliteration": "ummun",
+    "translation": "Ibu",
+    "emoji": "👩",
+    "image": "/images/family/family-02.svg",
+    "audio": "/audio/family/family-02.mp3",
+    "example": {
+      "arabic": "هَذِهِ أُمِّي",
+      "translation": "Ini ibuku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-03",
+    "slug": "family-03",
+    "category": "family",
+    "arabic": "أَخٌ",
+    "transliteration": "akhun",
+    "translation": "Saudara laki-laki",
+    "emoji": "👦",
+    "image": "/images/family/family-03.svg",
+    "audio": "/audio/family/family-03.mp3",
+    "example": {
+      "arabic": "لِي أَخٌ",
+      "translation": "Saya memiliki saudara laki-laki."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-04",
+    "slug": "family-04",
+    "category": "family",
+    "arabic": "أُخْتٌ",
+    "transliteration": "ukhtun",
+    "translation": "Saudara perempuan",
+    "emoji": "👧",
+    "image": "/images/family/family-04.svg",
+    "audio": "/audio/family/family-04.mp3",
+    "example": {
+      "arabic": "لِي أُخْتٌ",
+      "translation": "Saya memiliki saudara perempuan."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-05",
+    "slug": "family-05",
+    "category": "family",
+    "arabic": "جَدٌّ",
+    "transliteration": "jaddun",
+    "translation": "Kakek",
+    "emoji": "👴",
+    "image": "/images/family/family-05.svg",
+    "audio": "/audio/family/family-05.mp3",
+    "example": {
+      "arabic": "هَذَا جَدِّي",
+      "translation": "Ini kakekku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-06",
+    "slug": "family-06",
+    "category": "family",
+    "arabic": "جَدَّةٌ",
+    "transliteration": "jaddatun",
+    "translation": "Nenek",
+    "emoji": "👵",
+    "image": "/images/family/family-06.svg",
+    "audio": "/audio/family/family-06.mp3",
+    "example": {
+      "arabic": "هَذِهِ جَدَّتِي",
+      "translation": "Ini nenekku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-07",
+    "slug": "family-07",
+    "category": "family",
+    "arabic": "اِبْنٌ",
+    "transliteration": "ibnun",
+    "translation": "Anak laki-laki",
+    "emoji": "🧒",
+    "image": "/images/family/family-07.svg",
+    "audio": "/audio/family/family-07.mp3",
+    "example": {
+      "arabic": "هَذَا اِبْنٌ",
+      "translation": "Ini anak laki-laki."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-08",
+    "slug": "family-08",
+    "category": "family",
+    "arabic": "بِنْتٌ",
+    "transliteration": "bintun",
+    "translation": "Anak perempuan",
+    "emoji": "👧",
+    "image": "/images/family/family-08.svg",
+    "audio": "/audio/family/family-08.mp3",
+    "example": {
+      "arabic": "هَذِهِ بِنْتٌ",
+      "translation": "Ini anak perempuan."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-09",
+    "slug": "family-09",
+    "category": "family",
+    "arabic": "زَوْجٌ",
+    "transliteration": "zawjun",
+    "translation": "Suami",
+    "emoji": "🤵",
+    "image": "/images/family/family-09.svg",
+    "audio": "/audio/family/family-09.mp3",
+    "example": {
+      "arabic": "هُوَ زَوْجٌ",
+      "translation": "Dia seorang suami."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family-10",
+    "slug": "family-10",
+    "category": "family",
+    "arabic": "زَوْجَةٌ",
+    "transliteration": "zawjatun",
+    "translation": "Istri",
+    "emoji": "👰",
+    "image": "/images/family/family-10.svg",
+    "audio": "/audio/family/family-10.mp3",
+    "example": {
+      "arabic": "هِيَ زَوْجَةٌ",
+      "translation": "Dia seorang istri."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-01",
+    "slug": "body-01",
+    "category": "body",
+    "arabic": "رَأْسٌ",
+    "transliteration": "ra’sun",
+    "translation": "Kepala",
+    "emoji": "🙂",
+    "image": "/images/body/body-01.svg",
+    "audio": "/audio/body/body-01.mp3",
+    "example": {
+      "arabic": "هَذَا رَأْسٌ",
+      "translation": "Ini kepala."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-02",
+    "slug": "body-02",
+    "category": "body",
+    "arabic": "وَجْهٌ",
+    "transliteration": "wajhun",
+    "translation": "Wajah",
+    "emoji": "😊",
+    "image": "/images/body/body-02.svg",
+    "audio": "/audio/body/body-02.mp3",
+    "example": {
+      "arabic": "هَذَا وَجْهٌ",
+      "translation": "Ini wajah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-03",
+    "slug": "body-03",
+    "category": "body",
+    "arabic": "عَيْنٌ",
+    "transliteration": "ʿaynun",
+    "translation": "Mata",
+    "emoji": "👁️",
+    "image": "/images/body/body-03.svg",
+    "audio": "/audio/body/body-03.mp3",
+    "example": {
+      "arabic": "هَذِهِ عَيْنٌ",
+      "translation": "Ini mata."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-04",
+    "slug": "body-04",
+    "category": "body",
+    "arabic": "أُذُنٌ",
+    "transliteration": "udhun",
+    "translation": "Telinga",
+    "emoji": "👂",
+    "image": "/images/body/body-04.svg",
+    "audio": "/audio/body/body-04.mp3",
+    "example": {
+      "arabic": "هَذِهِ أُذُنٌ",
+      "translation": "Ini telinga."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-05",
+    "slug": "body-05",
+    "category": "body",
+    "arabic": "أَنْفٌ",
+    "transliteration": "anfun",
+    "translation": "Hidung",
+    "emoji": "👃",
+    "image": "/images/body/body-05.svg",
+    "audio": "/audio/body/body-05.mp3",
+    "example": {
+      "arabic": "هَذَا أَنْفٌ",
+      "translation": "Ini hidung."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-06",
+    "slug": "body-06",
+    "category": "body",
+    "arabic": "فَمٌ",
+    "transliteration": "famun",
+    "translation": "Mulut",
+    "emoji": "👄",
+    "image": "/images/body/body-06.svg",
+    "audio": "/audio/body/body-06.mp3",
+    "example": {
+      "arabic": "هَذَا فَمٌ",
+      "translation": "Ini mulut."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-07",
+    "slug": "body-07",
+    "category": "body",
+    "arabic": "يَدٌ",
+    "transliteration": "yadun",
+    "translation": "Tangan",
+    "emoji": "✋",
+    "image": "/images/body/body-07.svg",
+    "audio": "/audio/body/body-07.mp3",
+    "example": {
+      "arabic": "هَذِهِ يَدٌ",
+      "translation": "Ini tangan."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-08",
+    "slug": "body-08",
+    "category": "body",
+    "arabic": "إِصْبَعٌ",
+    "transliteration": "iṣbaʿun",
+    "translation": "Jari",
+    "emoji": "☝️",
+    "image": "/images/body/body-08.svg",
+    "audio": "/audio/body/body-08.mp3",
+    "example": {
+      "arabic": "هَذَا إِصْبَعٌ",
+      "translation": "Ini jari."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-09",
+    "slug": "body-09",
+    "category": "body",
+    "arabic": "قَدَمٌ",
+    "transliteration": "qadamun",
+    "translation": "Kaki",
+    "emoji": "🦶",
+    "image": "/images/body/body-09.svg",
+    "audio": "/audio/body/body-09.mp3",
+    "example": {
+      "arabic": "هَذِهِ قَدَمٌ",
+      "translation": "Ini kaki."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "body-10",
+    "slug": "body-10",
+    "category": "body",
+    "arabic": "قَلْبٌ",
+    "transliteration": "qalbun",
+    "translation": "Jantung / hati",
+    "emoji": "❤️",
+    "image": "/images/body/body-10.svg",
+    "audio": "/audio/body/body-10.mp3",
+    "example": {
+      "arabic": "القَلْبُ فِي الجِسْمِ",
+      "translation": "Jantung berada di dalam tubuh."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-01",
+    "slug": "school-01",
+    "category": "school",
+    "arabic": "مَدْرَسَةٌ",
+    "transliteration": "madrasatun",
+    "translation": "Sekolah",
+    "emoji": "🏫",
+    "image": "/images/school/school-01.svg",
+    "audio": "/audio/school/school-01.mp3",
+    "example": {
+      "arabic": "هَذِهِ مَدْرَسَةٌ",
+      "translation": "Ini sekolah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-02",
+    "slug": "school-02",
+    "category": "school",
+    "arabic": "فَصْلٌ",
+    "transliteration": "faṣlun",
+    "translation": "Kelas",
+    "emoji": "🏫",
+    "image": "/images/school/school-02.svg",
+    "audio": "/audio/school/school-02.mp3",
+    "example": {
+      "arabic": "الفَصْلُ كَبِيرٌ",
+      "translation": "Kelas itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-03",
+    "slug": "school-03",
+    "category": "school",
+    "arabic": "كِتَابٌ",
+    "transliteration": "kitābun",
+    "translation": "Buku",
+    "emoji": "📘",
+    "image": "/images/school/school-03.svg",
+    "audio": "/audio/school/school-03.mp3",
+    "example": {
+      "arabic": "هَذَا كِتَابٌ",
+      "translation": "Ini buku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-04",
+    "slug": "school-04",
+    "category": "school",
+    "arabic": "دَفْتَرٌ",
+    "transliteration": "daftarun",
+    "translation": "Buku tulis",
+    "emoji": "📓",
+    "image": "/images/school/school-04.svg",
+    "audio": "/audio/school/school-04.mp3",
+    "example": {
+      "arabic": "هَذَا دَفْتَرٌ",
+      "translation": "Ini buku tulis."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-05",
+    "slug": "school-05",
+    "category": "school",
+    "arabic": "قَلَمٌ",
+    "transliteration": "qalamun",
+    "translation": "Pulpen",
+    "emoji": "🖊️",
+    "image": "/images/school/school-05.svg",
+    "audio": "/audio/school/school-05.mp3",
+    "example": {
+      "arabic": "هَذَا قَلَمٌ",
+      "translation": "Ini pulpen."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-06",
+    "slug": "school-06",
+    "category": "school",
+    "arabic": "مِمْحَاةٌ",
+    "transliteration": "mimḥātun",
+    "translation": "Penghapus",
+    "emoji": "🧽",
+    "image": "/images/school/school-06.svg",
+    "audio": "/audio/school/school-06.mp3",
+    "example": {
+      "arabic": "هَذِهِ مِمْحَاةٌ",
+      "translation": "Ini penghapus."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-07",
+    "slug": "school-07",
+    "category": "school",
+    "arabic": "مِسْطَرَةٌ",
+    "transliteration": "misṭaratun",
+    "translation": "Penggaris",
+    "emoji": "📏",
+    "image": "/images/school/school-07.svg",
+    "audio": "/audio/school/school-07.mp3",
+    "example": {
+      "arabic": "هَذِهِ مِسْطَرَةٌ",
+      "translation": "Ini penggaris."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-08",
+    "slug": "school-08",
+    "category": "school",
+    "arabic": "حَقِيبَةٌ",
+    "transliteration": "ḥaqībatun",
+    "translation": "Tas",
+    "emoji": "🎒",
+    "image": "/images/school/school-08.svg",
+    "audio": "/audio/school/school-08.mp3",
+    "example": {
+      "arabic": "حَقِيبَتِي جَدِيدَةٌ",
+      "translation": "Tasku baru."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-09",
+    "slug": "school-09",
+    "category": "school",
+    "arabic": "مُعَلِّمٌ",
+    "transliteration": "muʿallimun",
+    "translation": "Guru laki-laki",
+    "emoji": "👨‍🏫",
+    "image": "/images/school/school-09.svg",
+    "audio": "/audio/school/school-09.mp3",
+    "example": {
+      "arabic": "المُعَلِّمُ فِي الفَصْلِ",
+      "translation": "Guru berada di kelas."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "school-10",
+    "slug": "school-10",
+    "category": "school",
+    "arabic": "طَالِبٌ",
+    "transliteration": "ṭālibun",
+    "translation": "Siswa laki-laki",
+    "emoji": "🧑‍🎓",
+    "image": "/images/school/school-10.svg",
+    "audio": "/audio/school/school-10.mp3",
+    "example": {
+      "arabic": "الطَّالِبُ يَقْرَأُ",
+      "translation": "Siswa itu membaca."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-01",
+    "slug": "home-01",
+    "category": "home",
+    "arabic": "بَيْتٌ",
+    "transliteration": "baytun",
+    "translation": "Rumah",
+    "emoji": "🏠",
+    "image": "/images/home/home-01.svg",
+    "audio": "/audio/home/home-01.mp3",
+    "example": {
+      "arabic": "هَذَا بَيْتٌ",
+      "translation": "Ini rumah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-02",
+    "slug": "home-02",
+    "category": "home",
+    "arabic": "بَابٌ",
+    "transliteration": "bābun",
+    "translation": "Pintu",
+    "emoji": "🚪",
+    "image": "/images/home/home-02.svg",
+    "audio": "/audio/home/home-02.mp3",
+    "example": {
+      "arabic": "البَابُ مَفْتُوحٌ",
+      "translation": "Pintu terbuka."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-03",
+    "slug": "home-03",
+    "category": "home",
+    "arabic": "نَافِذَةٌ",
+    "transliteration": "nāfidhatun",
+    "translation": "Jendela",
+    "emoji": "🪟",
+    "image": "/images/home/home-03.svg",
+    "audio": "/audio/home/home-03.mp3",
+    "example": {
+      "arabic": "النَّافِذَةُ مَفْتُوحَةٌ",
+      "translation": "Jendela terbuka."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-04",
+    "slug": "home-04",
+    "category": "home",
+    "arabic": "غُرْفَةٌ",
+    "transliteration": "ghurfatun",
+    "translation": "Kamar",
+    "emoji": "🛏️",
+    "image": "/images/home/home-04.svg",
+    "audio": "/audio/home/home-04.mp3",
+    "example": {
+      "arabic": "غُرْفَتِي نَظِيفَةٌ",
+      "translation": "Kamarku bersih."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-05",
+    "slug": "home-05",
+    "category": "home",
+    "arabic": "مَطْبَخٌ",
+    "transliteration": "maṭbakhun",
+    "translation": "Dapur",
+    "emoji": "🍳",
+    "image": "/images/home/home-05.svg",
+    "audio": "/audio/home/home-05.mp3",
+    "example": {
+      "arabic": "أُمِّي فِي المَطْبَخِ",
+      "translation": "Ibuku di dapur."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-06",
+    "slug": "home-06",
+    "category": "home",
+    "arabic": "حَمَّامٌ",
+    "transliteration": "ḥammāmun",
+    "translation": "Kamar mandi",
+    "emoji": "🛁",
+    "image": "/images/home/home-06.svg",
+    "audio": "/audio/home/home-06.mp3",
+    "example": {
+      "arabic": "الحَمَّامُ نَظِيفٌ",
+      "translation": "Kamar mandi bersih."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-07",
+    "slug": "home-07",
+    "category": "home",
+    "arabic": "سَرِيرٌ",
+    "transliteration": "sarīrun",
+    "translation": "Tempat tidur",
+    "emoji": "🛏️",
+    "image": "/images/home/home-07.svg",
+    "audio": "/audio/home/home-07.mp3",
+    "example": {
+      "arabic": "السَّرِيرُ كَبِيرٌ",
+      "translation": "Tempat tidur itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-08",
+    "slug": "home-08",
+    "category": "home",
+    "arabic": "كُرْسِيٌّ",
+    "transliteration": "kursiyyun",
+    "translation": "Kursi",
+    "emoji": "🪑",
+    "image": "/images/home/home-08.svg",
+    "audio": "/audio/home/home-08.mp3",
+    "example": {
+      "arabic": "هَذَا كُرْسِيٌّ",
+      "translation": "Ini kursi."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-09",
+    "slug": "home-09",
+    "category": "home",
+    "arabic": "مَائِدَةٌ",
+    "transliteration": "mā’idatun",
+    "translation": "Meja makan",
+    "emoji": "🍽️",
+    "image": "/images/home/home-09.svg",
+    "audio": "/audio/home/home-09.mp3",
+    "example": {
+      "arabic": "الطَّعَامُ عَلَى المَائِدَةِ",
+      "translation": "Makanan ada di atas meja."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home-10",
+    "slug": "home-10",
+    "category": "home",
+    "arabic": "مِصْبَاحٌ",
+    "transliteration": "miṣbāḥun",
+    "translation": "Lampu",
+    "emoji": "💡",
+    "image": "/images/home/home-10.svg",
+    "audio": "/audio/home/home-10.mp3",
+    "example": {
+      "arabic": "المِصْبَاحُ مُضِيءٌ",
+      "translation": "Lampu itu menyala."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-01",
+    "slug": "food-01",
+    "category": "food",
+    "arabic": "خُبْزٌ",
+    "transliteration": "khubzun",
+    "translation": "Roti",
+    "emoji": "🍞",
+    "image": "/images/food/food-01.svg",
+    "audio": "/audio/food/food-01.mp3",
+    "example": {
+      "arabic": "آكُلُ الخُبْزَ",
+      "translation": "Saya makan roti."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-02",
+    "slug": "food-02",
+    "category": "food",
+    "arabic": "أَرُزٌّ",
+    "transliteration": "aruzzun",
+    "translation": "Nasi",
+    "emoji": "🍚",
+    "image": "/images/food/food-02.svg",
+    "audio": "/audio/food/food-02.mp3",
+    "example": {
+      "arabic": "الأَرُزُّ لَذِيذٌ",
+      "translation": "Nasi itu lezat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-03",
+    "slug": "food-03",
+    "category": "food",
+    "arabic": "لَحْمٌ",
+    "transliteration": "laḥmun",
+    "translation": "Daging",
+    "emoji": "🥩",
+    "image": "/images/food/food-03.svg",
+    "audio": "/audio/food/food-03.mp3",
+    "example": {
+      "arabic": "أُحِبُّ اللَّحْمَ",
+      "translation": "Saya suka daging."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-04",
+    "slug": "food-04",
+    "category": "food",
+    "arabic": "دَجَاجٌ",
+    "transliteration": "dajājun",
+    "translation": "Ayam",
+    "emoji": "🍗",
+    "image": "/images/food/food-04.svg",
+    "audio": "/audio/food/food-04.mp3",
+    "example": {
+      "arabic": "الدَّجَاجُ مَطْبُوخٌ",
+      "translation": "Ayam itu dimasak."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-05",
+    "slug": "food-05",
+    "category": "food",
+    "arabic": "سَمَكٌ",
+    "transliteration": "samakun",
+    "translation": "Ikan",
+    "emoji": "🐟",
+    "image": "/images/food/food-05.svg",
+    "audio": "/audio/food/food-05.mp3",
+    "example": {
+      "arabic": "السَّمَكُ طَازَجٌ",
+      "translation": "Ikan itu segar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-06",
+    "slug": "food-06",
+    "category": "food",
+    "arabic": "حَلِيبٌ",
+    "transliteration": "ḥalībun",
+    "translation": "Susu",
+    "emoji": "🥛",
+    "image": "/images/food/food-06.svg",
+    "audio": "/audio/food/food-06.mp3",
+    "example": {
+      "arabic": "أَشْرَبُ الحَلِيبَ",
+      "translation": "Saya minum susu."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-07",
+    "slug": "food-07",
+    "category": "food",
+    "arabic": "مَاءٌ",
+    "transliteration": "mā’un",
+    "translation": "Air",
+    "emoji": "💧",
+    "image": "/images/food/food-07.svg",
+    "audio": "/audio/food/food-07.mp3",
+    "example": {
+      "arabic": "أَشْرَبُ المَاءَ",
+      "translation": "Saya minum air."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-08",
+    "slug": "food-08",
+    "category": "food",
+    "arabic": "شَايٌ",
+    "transliteration": "shāyun",
+    "translation": "Teh",
+    "emoji": "🍵",
+    "image": "/images/food/food-08.svg",
+    "audio": "/audio/food/food-08.mp3",
+    "example": {
+      "arabic": "أُرِيدُ شَايًا",
+      "translation": "Saya ingin teh."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-09",
+    "slug": "food-09",
+    "category": "food",
+    "arabic": "بَيْضٌ",
+    "transliteration": "bayḍun",
+    "translation": "Telur",
+    "emoji": "🥚",
+    "image": "/images/food/food-09.svg",
+    "audio": "/audio/food/food-09.mp3",
+    "example": {
+      "arabic": "آكُلُ بَيْضًا",
+      "translation": "Saya makan telur."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food-10",
+    "slug": "food-10",
+    "category": "food",
+    "arabic": "جُبْنٌ",
+    "transliteration": "jubnun",
+    "translation": "Keju",
+    "emoji": "🧀",
+    "image": "/images/food/food-10.svg",
+    "audio": "/audio/food/food-10.mp3",
+    "example": {
+      "arabic": "الجُبْنُ لَذِيذٌ",
+      "translation": "Keju itu lezat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-01",
+    "slug": "fruits-01",
+    "category": "fruits",
+    "arabic": "تُفَّاحٌ",
+    "transliteration": "tuffāḥun",
+    "translation": "Apel",
+    "emoji": "🍎",
+    "image": "/images/fruits/fruits-01.svg",
+    "audio": "/audio/fruits/fruits-01.mp3",
+    "example": {
+      "arabic": "أُحِبُّ التُّفَّاحَ",
+      "translation": "Saya suka apel."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-02",
+    "slug": "fruits-02",
+    "category": "fruits",
+    "arabic": "مَوْزٌ",
+    "transliteration": "mawzun",
+    "translation": "Pisang",
+    "emoji": "🍌",
+    "image": "/images/fruits/fruits-02.svg",
+    "audio": "/audio/fruits/fruits-02.mp3",
+    "example": {
+      "arabic": "المَوْزُ أَصْفَرُ",
+      "translation": "Pisang berwarna kuning."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-03",
+    "slug": "fruits-03",
+    "category": "fruits",
+    "arabic": "بُرْتُقَالٌ",
+    "transliteration": "burtuqālun",
+    "translation": "Jeruk",
+    "emoji": "🍊",
+    "image": "/images/fruits/fruits-03.svg",
+    "audio": "/audio/fruits/fruits-03.mp3",
+    "example": {
+      "arabic": "البُرْتُقَالُ حُلْوٌ",
+      "translation": "Jeruk itu manis."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-04",
+    "slug": "fruits-04",
+    "category": "fruits",
+    "arabic": "عِنَبٌ",
+    "transliteration": "ʿinabun",
+    "translation": "Anggur",
+    "emoji": "🍇",
+    "image": "/images/fruits/fruits-04.svg",
+    "audio": "/audio/fruits/fruits-04.mp3",
+    "example": {
+      "arabic": "العِنَبُ لَذِيذٌ",
+      "translation": "Anggur itu lezat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-05",
+    "slug": "fruits-05",
+    "category": "fruits",
+    "arabic": "بِطِّيخٌ",
+    "transliteration": "biṭṭīkhun",
+    "translation": "Semangka",
+    "emoji": "🍉",
+    "image": "/images/fruits/fruits-05.svg",
+    "audio": "/audio/fruits/fruits-05.mp3",
+    "example": {
+      "arabic": "البِطِّيخُ كَبِيرٌ",
+      "translation": "Semangka itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-06",
+    "slug": "fruits-06",
+    "category": "fruits",
+    "arabic": "فَرَاوِلَةٌ",
+    "transliteration": "farāwilah",
+    "translation": "Stroberi",
+    "emoji": "🍓",
+    "image": "/images/fruits/fruits-06.svg",
+    "audio": "/audio/fruits/fruits-06.mp3",
+    "example": {
+      "arabic": "الفَرَاوِلَةُ حَمْرَاءُ",
+      "translation": "Stroberi berwarna merah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-07",
+    "slug": "fruits-07",
+    "category": "fruits",
+    "arabic": "مَانْجُو",
+    "transliteration": "mānjū",
+    "translation": "Mangga",
+    "emoji": "🥭",
+    "image": "/images/fruits/fruits-07.svg",
+    "audio": "/audio/fruits/fruits-07.mp3",
+    "example": {
+      "arabic": "المَانْجُو حُلْوٌ",
+      "translation": "Mangga itu manis."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-08",
+    "slug": "fruits-08",
+    "category": "fruits",
+    "arabic": "أَنَانَاسٌ",
+    "transliteration": "anānāsun",
+    "translation": "Nanas",
+    "emoji": "🍍",
+    "image": "/images/fruits/fruits-08.svg",
+    "audio": "/audio/fruits/fruits-08.mp3",
+    "example": {
+      "arabic": "هَذَا أَنَانَاسٌ",
+      "translation": "Ini nanas."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-09",
+    "slug": "fruits-09",
+    "category": "fruits",
+    "arabic": "لَيْمُونٌ",
+    "transliteration": "laymūnun",
+    "translation": "Lemon",
+    "emoji": "🍋",
+    "image": "/images/fruits/fruits-09.svg",
+    "audio": "/audio/fruits/fruits-09.mp3",
+    "example": {
+      "arabic": "اللَّيْمُونُ حَامِضٌ",
+      "translation": "Lemon itu asam."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "fruits-10",
+    "slug": "fruits-10",
+    "category": "fruits",
+    "arabic": "كَرَزٌ",
+    "transliteration": "karazun",
+    "translation": "Ceri",
+    "emoji": "🍒",
+    "image": "/images/fruits/fruits-10.svg",
+    "audio": "/audio/fruits/fruits-10.mp3",
+    "example": {
+      "arabic": "الكَرَزُ صَغِيرٌ",
+      "translation": "Ceri itu kecil."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-01",
+    "slug": "animals-01",
+    "category": "animals",
+    "arabic": "قِطَّةٌ",
+    "transliteration": "qiṭṭatun",
+    "translation": "Kucing",
+    "emoji": "🐈",
+    "image": "/images/animals/animals-01.svg",
+    "audio": "/audio/animals/animals-01.mp3",
+    "example": {
+      "arabic": "هَذِهِ قِطَّةٌ",
+      "translation": "Ini seekor kucing."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-02",
+    "slug": "animals-02",
+    "category": "animals",
+    "arabic": "كَلْبٌ",
+    "transliteration": "kalbun",
+    "translation": "Anjing",
+    "emoji": "🐕",
+    "image": "/images/animals/animals-02.svg",
+    "audio": "/audio/animals/animals-02.mp3",
+    "example": {
+      "arabic": "الكَلْبُ وَفِيٌّ",
+      "translation": "Anjing itu setia."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-03",
+    "slug": "animals-03",
+    "category": "animals",
+    "arabic": "عُصْفُورٌ",
+    "transliteration": "ʿuṣfūrun",
+    "translation": "Burung",
+    "emoji": "🐦",
+    "image": "/images/animals/animals-03.svg",
+    "audio": "/audio/animals/animals-03.mp3",
+    "example": {
+      "arabic": "العُصْفُورُ يَطِيرُ",
+      "translation": "Burung itu terbang."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-04",
+    "slug": "animals-04",
+    "category": "animals",
+    "arabic": "سَمَكَةٌ",
+    "transliteration": "samakatun",
+    "translation": "Ikan",
+    "emoji": "🐠",
+    "image": "/images/animals/animals-04.svg",
+    "audio": "/audio/animals/animals-04.mp3",
+    "example": {
+      "arabic": "السَّمَكَةُ فِي المَاءِ",
+      "translation": "Ikan berada di air."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-05",
+    "slug": "animals-05",
+    "category": "animals",
+    "arabic": "أَسَدٌ",
+    "transliteration": "asadun",
+    "translation": "Singa",
+    "emoji": "🦁",
+    "image": "/images/animals/animals-05.svg",
+    "audio": "/audio/animals/animals-05.mp3",
+    "example": {
+      "arabic": "الأَسَدُ قَوِيٌّ",
+      "translation": "Singa itu kuat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-06",
+    "slug": "animals-06",
+    "category": "animals",
+    "arabic": "فِيلٌ",
+    "transliteration": "fīlun",
+    "translation": "Gajah",
+    "emoji": "🐘",
+    "image": "/images/animals/animals-06.svg",
+    "audio": "/audio/animals/animals-06.mp3",
+    "example": {
+      "arabic": "الفِيلُ كَبِيرٌ",
+      "translation": "Gajah itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-07",
+    "slug": "animals-07",
+    "category": "animals",
+    "arabic": "حِصَانٌ",
+    "transliteration": "ḥiṣānun",
+    "translation": "Kuda",
+    "emoji": "🐎",
+    "image": "/images/animals/animals-07.svg",
+    "audio": "/audio/animals/animals-07.mp3",
+    "example": {
+      "arabic": "الحِصَانُ سَرِيعٌ",
+      "translation": "Kuda itu cepat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-08",
+    "slug": "animals-08",
+    "category": "animals",
+    "arabic": "بَقَرَةٌ",
+    "transliteration": "baqaratun",
+    "translation": "Sapi",
+    "emoji": "🐄",
+    "image": "/images/animals/animals-08.svg",
+    "audio": "/audio/animals/animals-08.mp3",
+    "example": {
+      "arabic": "البَقَرَةُ تَأْكُلُ",
+      "translation": "Sapi itu makan."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-09",
+    "slug": "animals-09",
+    "category": "animals",
+    "arabic": "أَرْنَبٌ",
+    "transliteration": "arnabun",
+    "translation": "Kelinci",
+    "emoji": "🐇",
+    "image": "/images/animals/animals-09.svg",
+    "audio": "/audio/animals/animals-09.mp3",
+    "example": {
+      "arabic": "الأَرْنَبُ صَغِيرٌ",
+      "translation": "Kelinci itu kecil."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "animals-10",
+    "slug": "animals-10",
+    "category": "animals",
+    "arabic": "قِرْدٌ",
+    "transliteration": "qirdun",
+    "translation": "Monyet",
+    "emoji": "🐒",
+    "image": "/images/animals/animals-10.svg",
+    "audio": "/audio/animals/animals-10.mp3",
+    "example": {
+      "arabic": "القِرْدُ يَقْفِزُ",
+      "translation": "Monyet itu melompat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-01",
+    "slug": "colors-01",
+    "category": "colors",
+    "arabic": "أَحْمَرُ",
+    "transliteration": "aḥmaru",
+    "translation": "Merah",
+    "emoji": "🟥",
+    "image": "/images/colors/colors-01.svg",
+    "audio": "/audio/colors/colors-01.mp3",
+    "example": {
+      "arabic": "التُّفَّاحُ أَحْمَرُ",
+      "translation": "Apel itu merah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-02",
+    "slug": "colors-02",
+    "category": "colors",
+    "arabic": "أَزْرَقُ",
+    "transliteration": "azraqu",
+    "translation": "Biru",
+    "emoji": "🟦",
+    "image": "/images/colors/colors-02.svg",
+    "audio": "/audio/colors/colors-02.mp3",
+    "example": {
+      "arabic": "البَحْرُ أَزْرَقُ",
+      "translation": "Laut itu biru."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-03",
+    "slug": "colors-03",
+    "category": "colors",
+    "arabic": "أَخْضَرُ",
+    "transliteration": "akhḍaru",
+    "translation": "Hijau",
+    "emoji": "🟩",
+    "image": "/images/colors/colors-03.svg",
+    "audio": "/audio/colors/colors-03.mp3",
+    "example": {
+      "arabic": "العُشْبُ أَخْضَرُ",
+      "translation": "Rumput itu hijau."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-04",
+    "slug": "colors-04",
+    "category": "colors",
+    "arabic": "أَصْفَرُ",
+    "transliteration": "aṣfaru",
+    "translation": "Kuning",
+    "emoji": "🟨",
+    "image": "/images/colors/colors-04.svg",
+    "audio": "/audio/colors/colors-04.mp3",
+    "example": {
+      "arabic": "المَوْزُ أَصْفَرُ",
+      "translation": "Pisang itu kuning."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-05",
+    "slug": "colors-05",
+    "category": "colors",
+    "arabic": "أَبْيَضُ",
+    "transliteration": "abyaḍu",
+    "translation": "Putih",
+    "emoji": "⬜",
+    "image": "/images/colors/colors-05.svg",
+    "audio": "/audio/colors/colors-05.mp3",
+    "example": {
+      "arabic": "الحَلِيبُ أَبْيَضُ",
+      "translation": "Susu itu putih."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-06",
+    "slug": "colors-06",
+    "category": "colors",
+    "arabic": "أَسْوَدُ",
+    "transliteration": "aswadu",
+    "translation": "Hitam",
+    "emoji": "⬛",
+    "image": "/images/colors/colors-06.svg",
+    "audio": "/audio/colors/colors-06.mp3",
+    "example": {
+      "arabic": "اللَّيْلُ أَسْوَدُ",
+      "translation": "Malam itu hitam."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-07",
+    "slug": "colors-07",
+    "category": "colors",
+    "arabic": "بُنِّيٌّ",
+    "transliteration": "bunniyyun",
+    "translation": "Cokelat",
+    "emoji": "🟫",
+    "image": "/images/colors/colors-07.svg",
+    "audio": "/audio/colors/colors-07.mp3",
+    "example": {
+      "arabic": "الخَشَبُ بُنِّيٌّ",
+      "translation": "Kayu itu cokelat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-08",
+    "slug": "colors-08",
+    "category": "colors",
+    "arabic": "وَرْدِيٌّ",
+    "transliteration": "wardiyyun",
+    "translation": "Merah muda",
+    "emoji": "🩷",
+    "image": "/images/colors/colors-08.svg",
+    "audio": "/audio/colors/colors-08.mp3",
+    "example": {
+      "arabic": "الوَرْدُ وَرْدِيٌّ",
+      "translation": "Bunga itu merah muda."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-09",
+    "slug": "colors-09",
+    "category": "colors",
+    "arabic": "بُرْتُقَالِيٌّ",
+    "transliteration": "burtuqāliyyun",
+    "translation": "Oranye",
+    "emoji": "🟠",
+    "image": "/images/colors/colors-09.svg",
+    "audio": "/audio/colors/colors-09.mp3",
+    "example": {
+      "arabic": "اللَّوْنُ بُرْتُقَالِيٌّ",
+      "translation": "Warnanya oranye."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors-10",
+    "slug": "colors-10",
+    "category": "colors",
+    "arabic": "رَمَادِيٌّ",
+    "transliteration": "ramādiyyun",
+    "translation": "Abu-abu",
+    "emoji": "🩶",
+    "image": "/images/colors/colors-10.svg",
+    "audio": "/audio/colors/colors-10.mp3",
+    "example": {
+      "arabic": "السَّحَابُ رَمَادِيٌّ",
+      "translation": "Awan itu abu-abu."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-01",
+    "slug": "clothes-01",
+    "category": "clothes",
+    "arabic": "قَمِيصٌ",
+    "transliteration": "qamīṣun",
+    "translation": "Kemeja",
+    "emoji": "👔",
+    "image": "/images/clothes/clothes-01.svg",
+    "audio": "/audio/clothes/clothes-01.mp3",
+    "example": {
+      "arabic": "هَذَا قَمِيصٌ",
+      "translation": "Ini kemeja."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-02",
+    "slug": "clothes-02",
+    "category": "clothes",
+    "arabic": "سِرْوَالٌ",
+    "transliteration": "sirwālun",
+    "translation": "Celana",
+    "emoji": "👖",
+    "image": "/images/clothes/clothes-02.svg",
+    "audio": "/audio/clothes/clothes-02.mp3",
+    "example": {
+      "arabic": "السِّرْوَالُ جَدِيدٌ",
+      "translation": "Celana itu baru."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-03",
+    "slug": "clothes-03",
+    "category": "clothes",
+    "arabic": "فُسْتَانٌ",
+    "transliteration": "fustānun",
+    "translation": "Gaun",
+    "emoji": "👗",
+    "image": "/images/clothes/clothes-03.svg",
+    "audio": "/audio/clothes/clothes-03.mp3",
+    "example": {
+      "arabic": "الفُسْتَانُ جَمِيلٌ",
+      "translation": "Gaun itu indah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-04",
+    "slug": "clothes-04",
+    "category": "clothes",
+    "arabic": "حِذَاءٌ",
+    "transliteration": "ḥidhā’un",
+    "translation": "Sepatu",
+    "emoji": "👟",
+    "image": "/images/clothes/clothes-04.svg",
+    "audio": "/audio/clothes/clothes-04.mp3",
+    "example": {
+      "arabic": "الحِذَاءُ نَظِيفٌ",
+      "translation": "Sepatu itu bersih."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-05",
+    "slug": "clothes-05",
+    "category": "clothes",
+    "arabic": "جَوْرَبٌ",
+    "transliteration": "jawrabun",
+    "translation": "Kaos kaki",
+    "emoji": "🧦",
+    "image": "/images/clothes/clothes-05.svg",
+    "audio": "/audio/clothes/clothes-05.mp3",
+    "example": {
+      "arabic": "هَذَا جَوْرَبٌ",
+      "translation": "Ini kaos kaki."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-06",
+    "slug": "clothes-06",
+    "category": "clothes",
+    "arabic": "قُبَّعَةٌ",
+    "transliteration": "qubbaʿatun",
+    "translation": "Topi",
+    "emoji": "🧢",
+    "image": "/images/clothes/clothes-06.svg",
+    "audio": "/audio/clothes/clothes-06.mp3",
+    "example": {
+      "arabic": "أَلْبَسُ قُبَّعَةً",
+      "translation": "Saya memakai topi."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-07",
+    "slug": "clothes-07",
+    "category": "clothes",
+    "arabic": "مِعْطَفٌ",
+    "transliteration": "miʿṭafun",
+    "translation": "Mantel",
+    "emoji": "🧥",
+    "image": "/images/clothes/clothes-07.svg",
+    "audio": "/audio/clothes/clothes-07.mp3",
+    "example": {
+      "arabic": "المِعْطَفُ دَافِئٌ",
+      "translation": "Mantel itu hangat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-08",
+    "slug": "clothes-08",
+    "category": "clothes",
+    "arabic": "حِزَامٌ",
+    "transliteration": "ḥizāmun",
+    "translation": "Ikat pinggang",
+    "emoji": "🪢",
+    "image": "/images/clothes/clothes-08.svg",
+    "audio": "/audio/clothes/clothes-08.mp3",
+    "example": {
+      "arabic": "هَذَا حِزَامٌ",
+      "translation": "Ini ikat pinggang."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-09",
+    "slug": "clothes-09",
+    "category": "clothes",
+    "arabic": "نَظَّارَةٌ",
+    "transliteration": "naẓẓāratun",
+    "translation": "Kacamata",
+    "emoji": "👓",
+    "image": "/images/clothes/clothes-09.svg",
+    "audio": "/audio/clothes/clothes-09.mp3",
+    "example": {
+      "arabic": "أَلْبَسُ النَّظَّارَةَ",
+      "translation": "Saya memakai kacamata."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-10",
+    "slug": "clothes-10",
+    "category": "clothes",
+    "arabic": "حِجَابٌ",
+    "transliteration": "ḥijābun",
+    "translation": "Hijab",
+    "emoji": "🧕",
+    "image": "/images/clothes/clothes-10.svg",
+    "audio": "/audio/clothes/clothes-10.mp3",
+    "example": {
+      "arabic": "الحِجَابُ أَزْرَقُ",
+      "translation": "Hijab itu biru."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-01",
+    "slug": "transport-01",
+    "category": "transport",
+    "arabic": "سَيَّارَةٌ",
+    "transliteration": "sayyāratun",
+    "translation": "Mobil",
+    "emoji": "🚗",
+    "image": "/images/transport/transport-01.svg",
+    "audio": "/audio/transport/transport-01.mp3",
+    "example": {
+      "arabic": "هَذِهِ سَيَّارَةٌ",
+      "translation": "Ini mobil."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-02",
+    "slug": "transport-02",
+    "category": "transport",
+    "arabic": "حَافِلَةٌ",
+    "transliteration": "ḥāfilatun",
+    "translation": "Bus",
+    "emoji": "🚌",
+    "image": "/images/transport/transport-02.svg",
+    "audio": "/audio/transport/transport-02.mp3",
+    "example": {
+      "arabic": "الحَافِلَةُ كَبِيرَةٌ",
+      "translation": "Bus itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-03",
+    "slug": "transport-03",
+    "category": "transport",
+    "arabic": "قِطَارٌ",
+    "transliteration": "qiṭārun",
+    "translation": "Kereta",
+    "emoji": "🚆",
+    "image": "/images/transport/transport-03.svg",
+    "audio": "/audio/transport/transport-03.mp3",
+    "example": {
+      "arabic": "القِطَارُ سَرِيعٌ",
+      "translation": "Kereta itu cepat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-04",
+    "slug": "transport-04",
+    "category": "transport",
+    "arabic": "طَائِرَةٌ",
+    "transliteration": "ṭā’iratun",
+    "translation": "Pesawat",
+    "emoji": "✈️",
+    "image": "/images/transport/transport-04.svg",
+    "audio": "/audio/transport/transport-04.mp3",
+    "example": {
+      "arabic": "الطَّائِرَةُ فِي السَّمَاءِ",
+      "translation": "Pesawat berada di langit."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-05",
+    "slug": "transport-05",
+    "category": "transport",
+    "arabic": "دَرَّاجَةٌ",
+    "transliteration": "darrājatun",
+    "translation": "Sepeda",
+    "emoji": "🚲",
+    "image": "/images/transport/transport-05.svg",
+    "audio": "/audio/transport/transport-05.mp3",
+    "example": {
+      "arabic": "أَرْكَبُ الدَّرَّاجَةَ",
+      "translation": "Saya naik sepeda."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-06",
+    "slug": "transport-06",
+    "category": "transport",
+    "arabic": "دَرَّاجَةٌ نَارِيَّةٌ",
+    "transliteration": "darrājatun nāriyyatun",
+    "translation": "Sepeda motor",
+    "emoji": "🏍️",
+    "image": "/images/transport/transport-06.svg",
+    "audio": "/audio/transport/transport-06.mp3",
+    "example": {
+      "arabic": "هَذِهِ دَرَّاجَةٌ نَارِيَّةٌ",
+      "translation": "Ini sepeda motor."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-07",
+    "slug": "transport-07",
+    "category": "transport",
+    "arabic": "سَفِينَةٌ",
+    "transliteration": "safīnatun",
+    "translation": "Kapal",
+    "emoji": "🚢",
+    "image": "/images/transport/transport-07.svg",
+    "audio": "/audio/transport/transport-07.mp3",
+    "example": {
+      "arabic": "السَّفِينَةُ فِي البَحْرِ",
+      "translation": "Kapal berada di laut."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-08",
+    "slug": "transport-08",
+    "category": "transport",
+    "arabic": "سَيَّارَةُ أُجْرَةٍ",
+    "transliteration": "sayyāratu ujratin",
+    "translation": "Taksi",
+    "emoji": "🚕",
+    "image": "/images/transport/transport-08.svg",
+    "audio": "/audio/transport/transport-08.mp3",
+    "example": {
+      "arabic": "أُرِيدُ سَيَّارَةَ أُجْرَةٍ",
+      "translation": "Saya ingin taksi."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-09",
+    "slug": "transport-09",
+    "category": "transport",
+    "arabic": "شَاحِنَةٌ",
+    "transliteration": "shāḥinatun",
+    "translation": "Truk",
+    "emoji": "🚚",
+    "image": "/images/transport/transport-09.svg",
+    "audio": "/audio/transport/transport-09.mp3",
+    "example": {
+      "arabic": "الشَّاحِنَةُ كَبِيرَةٌ",
+      "translation": "Truk itu besar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport-10",
+    "slug": "transport-10",
+    "category": "transport",
+    "arabic": "مِتْرُو",
+    "transliteration": "mitrū",
+    "translation": "Kereta bawah tanah",
+    "emoji": "🚇",
+    "image": "/images/transport/transport-10.svg",
+    "audio": "/audio/transport/transport-10.mp3",
+    "example": {
+      "arabic": "أَرْكَبُ المِتْرُو",
+      "translation": "Saya naik metro."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-01",
+    "slug": "nature-01",
+    "category": "nature",
+    "arabic": "شَجَرَةٌ",
+    "transliteration": "shajaratun",
+    "translation": "Pohon",
+    "emoji": "🌳",
+    "image": "/images/nature/nature-01.svg",
+    "audio": "/audio/nature/nature-01.mp3",
+    "example": {
+      "arabic": "هَذِهِ شَجَرَةٌ",
+      "translation": "Ini pohon."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-02",
+    "slug": "nature-02",
+    "category": "nature",
+    "arabic": "زَهْرَةٌ",
+    "transliteration": "zahrah",
+    "translation": "Bunga",
+    "emoji": "🌸",
+    "image": "/images/nature/nature-02.svg",
+    "audio": "/audio/nature/nature-02.mp3",
+    "example": {
+      "arabic": "الزَّهْرَةُ جَمِيلَةٌ",
+      "translation": "Bunga itu indah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-03",
+    "slug": "nature-03",
+    "category": "nature",
+    "arabic": "شَمْسٌ",
+    "transliteration": "shamsun",
+    "translation": "Matahari",
+    "emoji": "☀️",
+    "image": "/images/nature/nature-03.svg",
+    "audio": "/audio/nature/nature-03.mp3",
+    "example": {
+      "arabic": "الشَّمْسُ مُشْرِقَةٌ",
+      "translation": "Matahari bersinar."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-04",
+    "slug": "nature-04",
+    "category": "nature",
+    "arabic": "قَمَرٌ",
+    "transliteration": "qamarun",
+    "translation": "Bulan",
+    "emoji": "🌙",
+    "image": "/images/nature/nature-04.svg",
+    "audio": "/audio/nature/nature-04.mp3",
+    "example": {
+      "arabic": "القَمَرُ جَمِيلٌ",
+      "translation": "Bulan itu indah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-05",
+    "slug": "nature-05",
+    "category": "nature",
+    "arabic": "نَجْمٌ",
+    "transliteration": "najmun",
+    "translation": "Bintang",
+    "emoji": "⭐",
+    "image": "/images/nature/nature-05.svg",
+    "audio": "/audio/nature/nature-05.mp3",
+    "example": {
+      "arabic": "النَّجْمُ لَامِعٌ",
+      "translation": "Bintang itu bercahaya."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-06",
+    "slug": "nature-06",
+    "category": "nature",
+    "arabic": "بَحْرٌ",
+    "transliteration": "baḥrun",
+    "translation": "Laut",
+    "emoji": "🌊",
+    "image": "/images/nature/nature-06.svg",
+    "audio": "/audio/nature/nature-06.mp3",
+    "example": {
+      "arabic": "البَحْرُ وَاسِعٌ",
+      "translation": "Laut itu luas."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-07",
+    "slug": "nature-07",
+    "category": "nature",
+    "arabic": "جَبَلٌ",
+    "transliteration": "jabalun",
+    "translation": "Gunung",
+    "emoji": "⛰️",
+    "image": "/images/nature/nature-07.svg",
+    "audio": "/audio/nature/nature-07.mp3",
+    "example": {
+      "arabic": "الجَبَلُ عَالٍ",
+      "translation": "Gunung itu tinggi."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-08",
+    "slug": "nature-08",
+    "category": "nature",
+    "arabic": "نَهْرٌ",
+    "transliteration": "nahrun",
+    "translation": "Sungai",
+    "emoji": "🏞️",
+    "image": "/images/nature/nature-08.svg",
+    "audio": "/audio/nature/nature-08.mp3",
+    "example": {
+      "arabic": "النَّهْرُ طَوِيلٌ",
+      "translation": "Sungai itu panjang."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-09",
+    "slug": "nature-09",
+    "category": "nature",
+    "arabic": "مَطَرٌ",
+    "transliteration": "maṭarun",
+    "translation": "Hujan",
+    "emoji": "🌧️",
+    "image": "/images/nature/nature-09.svg",
+    "audio": "/audio/nature/nature-09.mp3",
+    "example": {
+      "arabic": "المَطَرُ غَزِيرٌ",
+      "translation": "Hujan itu lebat."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nature-10",
+    "slug": "nature-10",
+    "category": "nature",
+    "arabic": "سَمَاءٌ",
+    "transliteration": "samā’un",
+    "translation": "Langit",
+    "emoji": "🌤️",
+    "image": "/images/nature/nature-10.svg",
+    "audio": "/audio/nature/nature-10.mp3",
+    "example": {
+      "arabic": "السَّمَاءُ صَافِيَةٌ",
+      "translation": "Langit cerah."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-01",
+    "slug": "numbers-01",
+    "category": "numbers",
+    "arabic": "صِفْرٌ",
+    "transliteration": "ṣifrun",
+    "translation": "Nol",
+    "emoji": "0️⃣",
+    "image": "/images/numbers/numbers-01.svg",
+    "audio": "/audio/numbers/numbers-01.mp3",
+    "example": {
+      "arabic": "الرَّقْمُ صِفْرٌ",
+      "translation": "Angkanya nol."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-02",
+    "slug": "numbers-02",
+    "category": "numbers",
+    "arabic": "وَاحِدٌ",
+    "transliteration": "wāḥidun",
+    "translation": "Satu",
+    "emoji": "1️⃣",
+    "image": "/images/numbers/numbers-02.svg",
+    "audio": "/audio/numbers/numbers-02.mp3",
+    "example": {
+      "arabic": "عِنْدِي كِتَابٌ وَاحِدٌ",
+      "translation": "Saya punya satu buku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-03",
+    "slug": "numbers-03",
+    "category": "numbers",
+    "arabic": "اِثْنَانِ",
+    "transliteration": "ithnāni",
+    "translation": "Dua",
+    "emoji": "2️⃣",
+    "image": "/images/numbers/numbers-03.svg",
+    "audio": "/audio/numbers/numbers-03.mp3",
+    "example": {
+      "arabic": "عِنْدِي قَلَمَانِ",
+      "translation": "Saya punya dua pulpen."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-04",
+    "slug": "numbers-04",
+    "category": "numbers",
+    "arabic": "ثَلَاثَةٌ",
+    "transliteration": "thalāthatun",
+    "translation": "Tiga",
+    "emoji": "3️⃣",
+    "image": "/images/numbers/numbers-04.svg",
+    "audio": "/audio/numbers/numbers-04.mp3",
+    "example": {
+      "arabic": "عِنْدِي ثَلَاثَةُ كُتُبٍ",
+      "translation": "Saya punya tiga buku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-05",
+    "slug": "numbers-05",
+    "category": "numbers",
+    "arabic": "أَرْبَعَةٌ",
+    "transliteration": "arbaʿatun",
+    "translation": "Empat",
+    "emoji": "4️⃣",
+    "image": "/images/numbers/numbers-05.svg",
+    "audio": "/audio/numbers/numbers-05.mp3",
+    "example": {
+      "arabic": "عِنْدِي أَرْبَعَةُ أَقْلَامٍ",
+      "translation": "Saya punya empat pulpen."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-06",
+    "slug": "numbers-06",
+    "category": "numbers",
+    "arabic": "خَمْسَةٌ",
+    "transliteration": "khamsatun",
+    "translation": "Lima",
+    "emoji": "5️⃣",
+    "image": "/images/numbers/numbers-06.svg",
+    "audio": "/audio/numbers/numbers-06.mp3",
+    "example": {
+      "arabic": "عِنْدِي خَمْسَةُ أَقْلَامٍ",
+      "translation": "Saya punya lima pulpen."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-07",
+    "slug": "numbers-07",
+    "category": "numbers",
+    "arabic": "سِتَّةٌ",
+    "transliteration": "sittatun",
+    "translation": "Enam",
+    "emoji": "6️⃣",
+    "image": "/images/numbers/numbers-07.svg",
+    "audio": "/audio/numbers/numbers-07.mp3",
+    "example": {
+      "arabic": "السَّاعَةُ السَّادِسَةُ",
+      "translation": "Sekarang pukul enam."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-08",
+    "slug": "numbers-08",
+    "category": "numbers",
+    "arabic": "سَبْعَةٌ",
+    "transliteration": "sabʿatun",
+    "translation": "Tujuh",
+    "emoji": "7️⃣",
+    "image": "/images/numbers/numbers-08.svg",
+    "audio": "/audio/numbers/numbers-08.mp3",
+    "example": {
+      "arabic": "عِنْدِي سَبْعَةُ أَيَّامٍ",
+      "translation": "Saya punya tujuh hari."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-09",
+    "slug": "numbers-09",
+    "category": "numbers",
+    "arabic": "ثَمَانِيَةٌ",
+    "transliteration": "thamāniyatun",
+    "translation": "Delapan",
+    "emoji": "8️⃣",
+    "image": "/images/numbers/numbers-09.svg",
+    "audio": "/audio/numbers/numbers-09.mp3",
+    "example": {
+      "arabic": "عِنْدِي ثَمَانِيَةُ كُتُبٍ",
+      "translation": "Saya punya delapan buku."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers-10",
+    "slug": "numbers-10",
+    "category": "numbers",
+    "arabic": "تِسْعَةٌ",
+    "transliteration": "tisʿatun",
+    "translation": "Sembilan",
+    "emoji": "9️⃣",
+    "image": "/images/numbers/numbers-10.svg",
+    "audio": "/audio/numbers/numbers-10.mp3",
+    "example": {
+      "arabic": "عِنْدِي تِسْعَةُ أَقْلَامٍ",
+      "translation": "Saya punya sembilan pulpen."
+    },
+    "difficulty": "beginner"
+  }
+]

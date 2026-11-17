@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "family",
+    "name": "Keluarga",
+    "arabic": "الأُسْرَةُ",
+    "icon": "👨‍👩‍👧‍👦",
+    "description": "Kosakata anggota keluarga dan hubungan kekerabatan."
+  },
+  {
+    "slug": "body",
+    "name": "Anggota Tubuh",
+    "arabic": "أَعْضَاءُ الجِسْمِ",
+    "icon": "🫶",
+    "description": "Nama bagian tubuh manusia."
+  },
+  {
+    "slug": "school",
+    "name": "Sekolah",
+    "arabic": "المَدْرَسَةُ",
+    "icon": "🎒",
+    "description": "Benda dan tempat yang ditemukan di sekolah."
+  },
+  {
+    "slug": "home",
+    "name": "Di Rumah",
+    "arabic": "فِي البَيْتِ",
+    "icon": "🏠",
+    "description": "Benda dan ruangan di lingkungan rumah."
+  },
+  {
+    "slug": "food",
+    "name": "Makanan & Minuman",
+    "arabic": "الطَّعَامُ وَالشَّرَابُ",
+    "icon": "🍽️",
+    "description": "Kosakata makanan dan minuman sehari-hari."
+  },
+  {
+    "slug": "fruits",
+    "name": "Buah-buahan",
+    "arabic": "الفَوَاكِهُ",
+    "icon": "🍎",
+    "description": "Nama buah yang umum dijumpai."
+  },
+  {
+    "slug": "animals",
+    "name": "Hewan",
+    "arabic": "الحَيَوَانَاتُ",
+    "icon": "🐾",
+    "description": "Nama hewan di sekitar kita."
+  },
+  {
+    "slug": "colors",
+    "name": "Warna",
+    "arabic": "الأَلْوَانُ",
+    "icon": "🎨",
+    "description": "Nama warna dasar dalam bahasa Arab."
+  },
+  {
+    "slug": "clothes",
+    "name": "Pakaian",
+    "arabic": "المَلَابِسُ",
+    "icon": "👕",
+    "description": "Kosakata pakaian dan aksesori."
+  },
+  {
+    "slug": "transport",
+    "name": "Transportasi",
+    "arabic": "وَسَائِلُ النَّقْلِ",
+    "icon": "🚌",
+    "description": "Kendaraan dan sarana transportasi."
+  },
+  {
+    "slug": "nature",
+    "name": "Alam",
+    "arabic": "الطَّبِيعَةُ",
+    "icon": "🌳",
+    "description": "Unsur alam dan lingkungan."
+  },
+  {
+    "slug": "numbers",
+    "name": "Angka",
+    "arabic": "الأَرْقَامُ",
+    "icon": "🔢",
+    "description": "Angka dasar dan bilangan sederhana."
+  }
+]

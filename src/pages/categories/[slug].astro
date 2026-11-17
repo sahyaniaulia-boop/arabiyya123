@@ -1,0 +1,6 @@
+---
+import MainLayout from "../../layouts/MainLayout.astro";import Explorer from "../../components/Explorer";import cats from "../../data/categories.json";
+export function getStaticPaths(){return cats.map(c=>({params:{slug:c.slug},props:{category:c}}));}
+const {category}=Astro.props;
+---
+<MainLayout title={`${category.name} | Arabiyya`}><main class="container py-12"><a href="/categories/" class="text-sm font-bold text-[#164e42]">← Semua kategori</a><div class="mt-6 flex items-center gap-4"><div class="category-icon">{category.icon}</div><div><div class="arabic text-2xl">{category.arabic}</div><h1 class="text-3xl font-extrabold">{category.name}</h1></div></div><p class="mb-8 mt-3 muted">{category.description}</p><Explorer client:load initial={category.slug}/></main></MainLayout>
