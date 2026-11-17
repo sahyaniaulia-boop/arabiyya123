@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360">
+<rect width="480" height="360" rx="34" fill="#F0F4E8"/>
+<circle cx="385" cy="75" r="46" fill="#ffffff" opacity=".55"/>
+<circle cx="85" cy="285" r="68" fill="#ffffff" opacity=".42"/>
+<path d="M0 290 Q120 240 240 292 T480 285 V360 H0Z" fill="#ffffff" opacity=".45"/>
+<text x="240" y="208" font-size="132" text-anchor="middle" dominant-baseline="middle">🐇</text>
+<text x="240" y="315" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="#36594b">Kelinci</text>
+</svg>
