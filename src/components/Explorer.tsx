@@ -11,7 +11,7 @@ export default function Explorer({initial="all"}:{initial?:string}){
  <p className="my-5 text-sm muted">{result.length} kosakata ditemukan</p>
  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">{result.map(w=><article className="card overflow-hidden" key={w.id}>
  <a href={`/vocabulary/${w.slug}/`}><img src={w.image} alt={`Ilustrasi ${w.translation}`} className="h-40 w-full object-cover"/><div className="p-4 text-center"><div className="arabic text-3xl">{w.arabic}</div><div className="mt-1 font-bold text-[#164e42]">{w.translation}</div><div className="mt-1 text-xs muted">{w.transliteration}</div></div></a>
- <div className="flex items-center justify-between border-t border-[#edf0eb] px-4 py-3"><a className="text-xs font-bold text-[#164e42]" href={`/vocabulary/${w.slug}/`}>Pelajari →</a><AudioButton src={w.audio} text={w.arabic}/></div></article>)}</div>
+ <div className="flex items-center justify-between border-t border-[#edf0eb] px-4 py-3"><a className="text-xs font-bold text-[#164e42]" href={`/vocabulary/${w.slug}/`}>Pelajari →</a><AudioButton text={w.arabic}/></div></article>)}</div>
  {result.length===0&&<div className="card p-10 text-center"><b>Kosakata tidak ditemukan</b><p className="mt-2 text-sm muted">Coba kata kunci lain.</p></div>}
  </div>;
 }

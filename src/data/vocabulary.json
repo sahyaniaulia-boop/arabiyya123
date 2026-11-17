@@ -8,7 +8,6 @@
     "translation": "Ayah",
     "emoji": "👨",
     "image": "/images/family/family-01.svg",
-    "audio": "/audio/family/family-01.mp3",
     "example": {
       "arabic": "هَذَا أَبِي",
       "translation": "Ini ayahku."
@@ -24,7 +23,6 @@
     "translation": "Ibu",
     "emoji": "👩",
     "image": "/images/family/family-02.svg",
-    "audio": "/audio/family/family-02.mp3",
     "example": {
       "arabic": "هَذِهِ أُمِّي",
       "translation": "Ini ibuku."
@@ -40,7 +38,6 @@
     "translation": "Saudara laki-laki",
     "emoji": "👦",
     "image": "/images/family/family-03.svg",
-    "audio": "/audio/family/family-03.mp3",
     "example": {
       "arabic": "لِي أَخٌ",
       "translation": "Saya memiliki saudara laki-laki."
@@ -56,7 +53,6 @@
     "translation": "Saudara perempuan",
     "emoji": "👧",
     "image": "/images/family/family-04.svg",
-    "audio": "/audio/family/family-04.mp3",
     "example": {
       "arabic": "لِي أُخْتٌ",
       "translation": "Saya memiliki saudara perempuan."
@@ -72,7 +68,6 @@
     "translation": "Kakek",
     "emoji": "👴",
     "image": "/images/family/family-05.svg",
-    "audio": "/audio/family/family-05.mp3",
     "example": {
       "arabic": "هَذَا جَدِّي",
       "translation": "Ini kakekku."
@@ -88,7 +83,6 @@
     "translation": "Nenek",
     "emoji": "👵",
     "image": "/images/family/family-06.svg",
-    "audio": "/audio/family/family-06.mp3",
     "example": {
       "arabic": "هَذِهِ جَدَّتِي",
       "translation": "Ini nenekku."
@@ -104,7 +98,6 @@
     "translation": "Anak laki-laki",
     "emoji": "🧒",
     "image": "/images/family/family-07.svg",
-    "audio": "/audio/family/family-07.mp3",
     "example": {
       "arabic": "هَذَا اِبْنٌ",
       "translation": "Ini anak laki-laki."
@@ -120,7 +113,6 @@
     "translation": "Anak perempuan",
     "emoji": "👧",
     "image": "/images/family/family-08.svg",
-    "audio": "/audio/family/family-08.mp3",
     "example": {
       "arabic": "هَذِهِ بِنْتٌ",
       "translation": "Ini anak perempuan."
@@ -136,7 +128,6 @@
     "translation": "Suami",
     "emoji": "🤵",
     "image": "/images/family/family-09.svg",
-    "audio": "/audio/family/family-09.mp3",
     "example": {
       "arabic": "هُوَ زَوْجٌ",
       "translation": "Dia seorang suami."
@@ -152,7 +143,6 @@
     "translation": "Istri",
     "emoji": "👰",
     "image": "/images/family/family-10.svg",
-    "audio": "/audio/family/family-10.mp3",
     "example": {
       "arabic": "هِيَ زَوْجَةٌ",
       "translation": "Dia seorang istri."
@@ -168,7 +158,6 @@
     "translation": "Kepala",
     "emoji": "🙂",
     "image": "/images/body/body-01.svg",
-    "audio": "/audio/body/body-01.mp3",
     "example": {
       "arabic": "هَذَا رَأْسٌ",
       "translation": "Ini kepala."
@@ -184,7 +173,6 @@
     "translation": "Wajah",
     "emoji": "😊",
     "image": "/images/body/body-02.svg",
-    "audio": "/audio/body/body-02.mp3",
     "example": {
       "arabic": "هَذَا وَجْهٌ",
       "translation": "Ini wajah."
@@ -200,7 +188,6 @@
     "translation": "Mata",
     "emoji": "👁️",
     "image": "/images/body/body-03.svg",
-    "audio": "/audio/body/body-03.mp3",
     "example": {
       "arabic": "هَذِهِ عَيْنٌ",
       "translation": "Ini mata."
@@ -216,7 +203,6 @@
     "translation": "Telinga",
     "emoji": "👂",
     "image": "/images/body/body-04.svg",
-    "audio": "/audio/body/body-04.mp3",
     "example": {
       "arabic": "هَذِهِ أُذُنٌ",
       "translation": "Ini telinga."
@@ -232,7 +218,6 @@
     "translation": "Hidung",
     "emoji": "👃",
     "image": "/images/body/body-05.svg",
-    "audio": "/audio/body/body-05.mp3",
     "example": {
       "arabic": "هَذَا أَنْفٌ",
       "translation": "Ini hidung."
@@ -248,7 +233,6 @@
     "translation": "Mulut",
     "emoji": "👄",
     "image": "/images/body/body-06.svg",
-    "audio": "/audio/body/body-06.mp3",
     "example": {
       "arabic": "هَذَا فَمٌ",
       "translation": "Ini mulut."
@@ -264,7 +248,6 @@
     "translation": "Tangan",
     "emoji": "✋",
     "image": "/images/body/body-07.svg",
-    "audio": "/audio/body/body-07.mp3",
     "example": {
       "arabic": "هَذِهِ يَدٌ",
       "translation": "Ini tangan."
@@ -280,7 +263,6 @@
     "translation": "Jari",
     "emoji": "☝️",
     "image": "/images/body/body-08.svg",
-    "audio": "/audio/body/body-08.mp3",
     "example": {
       "arabic": "هَذَا إِصْبَعٌ",
       "translation": "Ini jari."
@@ -296,7 +278,6 @@
     "translation": "Kaki",
     "emoji": "🦶",
     "image": "/images/body/body-09.svg",
-    "audio": "/audio/body/body-09.mp3",
     "example": {
       "arabic": "هَذِهِ قَدَمٌ",
       "translation": "Ini kaki."
@@ -312,7 +293,6 @@
     "translation": "Jantung / hati",
     "emoji": "❤️",
     "image": "/images/body/body-10.svg",
-    "audio": "/audio/body/body-10.mp3",
     "example": {
       "arabic": "القَلْبُ فِي الجِسْمِ",
       "translation": "Jantung berada di dalam tubuh."
@@ -328,7 +308,6 @@
     "translation": "Sekolah",
     "emoji": "🏫",
     "image": "/images/school/school-01.svg",
-    "audio": "/audio/school/school-01.mp3",
     "example": {
       "arabic": "هَذِهِ مَدْرَسَةٌ",
       "translation": "Ini sekolah."
@@ -344,7 +323,6 @@
     "translation": "Kelas",
     "emoji": "🏫",
     "image": "/images/school/school-02.svg",
-    "audio": "/audio/school/school-02.mp3",
     "example": {
       "arabic": "الفَصْلُ كَبِيرٌ",
       "translation": "Kelas itu besar."
@@ -360,7 +338,6 @@
     "translation": "Buku",
     "emoji": "📘",
     "image": "/images/school/school-03.svg",
-    "audio": "/audio/school/school-03.mp3",
     "example": {
       "arabic": "هَذَا كِتَابٌ",
       "translation": "Ini buku."
@@ -376,7 +353,6 @@
     "translation": "Buku tulis",
     "emoji": "📓",
     "image": "/images/school/school-04.svg",
-    "audio": "/audio/school/school-04.mp3",
     "example": {
       "arabic": "هَذَا دَفْتَرٌ",
       "translation": "Ini buku tulis."
@@ -392,7 +368,6 @@
     "translation": "Pulpen",
     "emoji": "🖊️",
     "image": "/images/school/school-05.svg",
-    "audio": "/audio/school/school-05.mp3",
     "example": {
       "arabic": "هَذَا قَلَمٌ",
       "translation": "Ini pulpen."
@@ -408,7 +383,6 @@
     "translation": "Penghapus",
     "emoji": "🧽",
     "image": "/images/school/school-06.svg",
-    "audio": "/audio/school/school-06.mp3",
     "example": {
       "arabic": "هَذِهِ مِمْحَاةٌ",
       "translation": "Ini penghapus."
@@ -424,7 +398,6 @@
     "translation": "Penggaris",
     "emoji": "📏",
     "image": "/images/school/school-07.svg",
-    "audio": "/audio/school/school-07.mp3",
     "example": {
       "arabic": "هَذِهِ مِسْطَرَةٌ",
       "translation": "Ini penggaris."
@@ -440,7 +413,6 @@
     "translation": "Tas",
     "emoji": "🎒",
     "image": "/images/school/school-08.svg",
-    "audio": "/audio/school/school-08.mp3",
     "example": {
       "arabic": "حَقِيبَتِي جَدِيدَةٌ",
       "translation": "Tasku baru."
@@ -456,7 +428,6 @@
     "translation": "Guru laki-laki",
     "emoji": "👨‍🏫",
     "image": "/images/school/school-09.svg",
-    "audio": "/audio/school/school-09.mp3",
     "example": {
       "arabic": "المُعَلِّمُ فِي الفَصْلِ",
       "translation": "Guru berada di kelas."
@@ -472,7 +443,6 @@
     "translation": "Siswa laki-laki",
     "emoji": "🧑‍🎓",
     "image": "/images/school/school-10.svg",
-    "audio": "/audio/school/school-10.mp3",
     "example": {
       "arabic": "الطَّالِبُ يَقْرَأُ",
       "translation": "Siswa itu membaca."
@@ -488,7 +458,6 @@
     "translation": "Rumah",
     "emoji": "🏠",
     "image": "/images/home/home-01.svg",
-    "audio": "/audio/home/home-01.mp3",
     "example": {
       "arabic": "هَذَا بَيْتٌ",
       "translation": "Ini rumah."
@@ -504,7 +473,6 @@
     "translation": "Pintu",
     "emoji": "🚪",
     "image": "/images/home/home-02.svg",
-    "audio": "/audio/home/home-02.mp3",
     "example": {
       "arabic": "البَابُ مَفْتُوحٌ",
       "translation": "Pintu terbuka."
@@ -520,7 +488,6 @@
     "translation": "Jendela",
     "emoji": "🪟",
     "image": "/images/home/home-03.svg",
-    "audio": "/audio/home/home-03.mp3",
     "example": {
       "arabic": "النَّافِذَةُ مَفْتُوحَةٌ",
       "translation": "Jendela terbuka."
@@ -536,7 +503,6 @@
     "translation": "Kamar",
     "emoji": "🛏️",
     "image": "/images/home/home-04.svg",
-    "audio": "/audio/home/home-04.mp3",
     "example": {
       "arabic": "غُرْفَتِي نَظِيفَةٌ",
       "translation": "Kamarku bersih."
@@ -552,7 +518,6 @@
     "translation": "Dapur",
     "emoji": "🍳",
     "image": "/images/home/home-05.svg",
-    "audio": "/audio/home/home-05.mp3",
     "example": {
       "arabic": "أُمِّي فِي المَطْبَخِ",
       "translation": "Ibuku di dapur."
@@ -568,7 +533,6 @@
     "translation": "Kamar mandi",
     "emoji": "🛁",
     "image": "/images/home/home-06.svg",
-    "audio": "/audio/home/home-06.mp3",
     "example": {
       "arabic": "الحَمَّامُ نَظِيفٌ",
       "translation": "Kamar mandi bersih."
@@ -584,7 +548,6 @@
     "translation": "Tempat tidur",
     "emoji": "🛏️",
     "image": "/images/home/home-07.svg",
-    "audio": "/audio/home/home-07.mp3",
     "example": {
       "arabic": "السَّرِيرُ كَبِيرٌ",
       "translation": "Tempat tidur itu besar."
@@ -600,7 +563,6 @@
     "translation": "Kursi",
     "emoji": "🪑",
     "image": "/images/home/home-08.svg",
-    "audio": "/audio/home/home-08.mp3",
     "example": {
       "arabic": "هَذَا كُرْسِيٌّ",
       "translation": "Ini kursi."
@@ -616,7 +578,6 @@
     "translation": "Meja makan",
     "emoji": "🍽️",
     "image": "/images/home/home-09.svg",
-    "audio": "/audio/home/home-09.mp3",
     "example": {
       "arabic": "الطَّعَامُ عَلَى المَائِدَةِ",
       "translation": "Makanan ada di atas meja."
@@ -632,7 +593,6 @@
     "translation": "Lampu",
     "emoji": "💡",
     "image": "/images/home/home-10.svg",
-    "audio": "/audio/home/home-10.mp3",
     "example": {
       "arabic": "المِصْبَاحُ مُضِيءٌ",
       "translation": "Lampu itu menyala."
@@ -648,7 +608,6 @@
     "translation": "Roti",
     "emoji": "🍞",
     "image": "/images/food/food-01.svg",
-    "audio": "/audio/food/food-01.mp3",
     "example": {
       "arabic": "آكُلُ الخُبْزَ",
       "translation": "Saya makan roti."
@@ -664,7 +623,6 @@
     "translation": "Nasi",
     "emoji": "🍚",
     "image": "/images/food/food-02.svg",
-    "audio": "/audio/food/food-02.mp3",
     "example": {
       "arabic": "الأَرُزُّ لَذِيذٌ",
       "translation": "Nasi itu lezat."
@@ -680,7 +638,6 @@
     "translation": "Daging",
     "emoji": "🥩",
     "image": "/images/food/food-03.svg",
-    "audio": "/audio/food/food-03.mp3",
     "example": {
       "arabic": "أُحِبُّ اللَّحْمَ",
       "translation": "Saya suka daging."
@@ -696,7 +653,6 @@
     "translation": "Ayam",
     "emoji": "🍗",
     "image": "/images/food/food-04.svg",
-    "audio": "/audio/food/food-04.mp3",
     "example": {
       "arabic": "الدَّجَاجُ مَطْبُوخٌ",
       "translation": "Ayam itu dimasak."
@@ -712,7 +668,6 @@
     "translation": "Ikan",
     "emoji": "🐟",
     "image": "/images/food/food-05.svg",
-    "audio": "/audio/food/food-05.mp3",
     "example": {
       "arabic": "السَّمَكُ طَازَجٌ",
       "translation": "Ikan itu segar."
@@ -728,7 +683,6 @@
     "translation": "Susu",
     "emoji": "🥛",
     "image": "/images/food/food-06.svg",
-    "audio": "/audio/food/food-06.mp3",
     "example": {
       "arabic": "أَشْرَبُ الحَلِيبَ",
       "translation": "Saya minum susu."
@@ -744,7 +698,6 @@
     "translation": "Air",
     "emoji": "💧",
     "image": "/images/food/food-07.svg",
-    "audio": "/audio/food/food-07.mp3",
     "example": {
       "arabic": "أَشْرَبُ المَاءَ",
       "translation": "Saya minum air."
@@ -760,7 +713,6 @@
     "translation": "Teh",
     "emoji": "🍵",
     "image": "/images/food/food-08.svg",
-    "audio": "/audio/food/food-08.mp3",
     "example": {
       "arabic": "أُرِيدُ شَايًا",
       "translation": "Saya ingin teh."
@@ -776,7 +728,6 @@
     "translation": "Telur",
     "emoji": "🥚",
     "image": "/images/food/food-09.svg",
-    "audio": "/audio/food/food-09.mp3",
     "example": {
       "arabic": "آكُلُ بَيْضًا",
       "translation": "Saya makan telur."
@@ -792,7 +743,6 @@
     "translation": "Keju",
     "emoji": "🧀",
     "image": "/images/food/food-10.svg",
-    "audio": "/audio/food/food-10.mp3",
     "example": {
       "arabic": "الجُبْنُ لَذِيذٌ",
       "translation": "Keju itu lezat."
@@ -808,7 +758,6 @@
     "translation": "Apel",
     "emoji": "🍎",
     "image": "/images/fruits/fruits-01.svg",
-    "audio": "/audio/fruits/fruits-01.mp3",
     "example": {
       "arabic": "أُحِبُّ التُّفَّاحَ",
       "translation": "Saya suka apel."
@@ -824,7 +773,6 @@
     "translation": "Pisang",
     "emoji": "🍌",
     "image": "/images/fruits/fruits-02.svg",
-    "audio": "/audio/fruits/fruits-02.mp3",
     "example": {
       "arabic": "المَوْزُ أَصْفَرُ",
       "translation": "Pisang berwarna kuning."
@@ -840,7 +788,6 @@
     "translation": "Jeruk",
     "emoji": "🍊",
     "image": "/images/fruits/fruits-03.svg",
-    "audio": "/audio/fruits/fruits-03.mp3",
     "example": {
       "arabic": "البُرْتُقَالُ حُلْوٌ",
       "translation": "Jeruk itu manis."
@@ -856,7 +803,6 @@
     "translation": "Anggur",
     "emoji": "🍇",
     "image": "/images/fruits/fruits-04.svg",
-    "audio": "/audio/fruits/fruits-04.mp3",
     "example": {
       "arabic": "العِنَبُ لَذِيذٌ",
       "translation": "Anggur itu lezat."
@@ -872,7 +818,6 @@
     "translation": "Semangka",
     "emoji": "🍉",
     "image": "/images/fruits/fruits-05.svg",
-    "audio": "/audio/fruits/fruits-05.mp3",
     "example": {
       "arabic": "البِطِّيخُ كَبِيرٌ",
       "translation": "Semangka itu besar."
@@ -888,7 +833,6 @@
     "translation": "Stroberi",
     "emoji": "🍓",
     "image": "/images/fruits/fruits-06.svg",
-    "audio": "/audio/fruits/fruits-06.mp3",
     "example": {
       "arabic": "الفَرَاوِلَةُ حَمْرَاءُ",
       "translation": "Stroberi berwarna merah."
@@ -904,7 +848,6 @@
     "translation": "Mangga",
     "emoji": "🥭",
     "image": "/images/fruits/fruits-07.svg",
-    "audio": "/audio/fruits/fruits-07.mp3",
     "example": {
       "arabic": "المَانْجُو حُلْوٌ",
       "translation": "Mangga itu manis."
@@ -920,7 +863,6 @@
     "translation": "Nanas",
     "emoji": "🍍",
     "image": "/images/fruits/fruits-08.svg",
-    "audio": "/audio/fruits/fruits-08.mp3",
     "example": {
       "arabic": "هَذَا أَنَانَاسٌ",
       "translation": "Ini nanas."
@@ -936,7 +878,6 @@
     "translation": "Lemon",
     "emoji": "🍋",
     "image": "/images/fruits/fruits-09.svg",
-    "audio": "/audio/fruits/fruits-09.mp3",
     "example": {
       "arabic": "اللَّيْمُونُ حَامِضٌ",
       "translation": "Lemon itu asam."
@@ -952,7 +893,6 @@
     "translation": "Ceri",
     "emoji": "🍒",
     "image": "/images/fruits/fruits-10.svg",
-    "audio": "/audio/fruits/fruits-10.mp3",
     "example": {
       "arabic": "الكَرَزُ صَغِيرٌ",
       "translation": "Ceri itu kecil."
@@ -968,7 +908,6 @@
     "translation": "Kucing",
     "emoji": "🐈",
     "image": "/images/animals/animals-01.svg",
-    "audio": "/audio/animals/animals-01.mp3",
     "example": {
       "arabic": "هَذِهِ قِطَّةٌ",
       "translation": "Ini seekor kucing."
@@ -984,7 +923,6 @@
     "translation": "Anjing",
     "emoji": "🐕",
     "image": "/images/animals/animals-02.svg",
-    "audio": "/audio/animals/animals-02.mp3",
     "example": {
       "arabic": "الكَلْبُ وَفِيٌّ",
       "translation": "Anjing itu setia."
@@ -1000,7 +938,6 @@
     "translation": "Burung",
     "emoji": "🐦",
     "image": "/images/animals/animals-03.svg",
-    "audio": "/audio/animals/animals-03.mp3",
     "example": {
       "arabic": "العُصْفُورُ يَطِيرُ",
       "translation": "Burung itu terbang."
@@ -1016,7 +953,6 @@
     "translation": "Ikan",
     "emoji": "🐠",
     "image": "/images/animals/animals-04.svg",
-    "audio": "/audio/animals/animals-04.mp3",
     "example": {
       "arabic": "السَّمَكَةُ فِي المَاءِ",
       "translation": "Ikan berada di air."
@@ -1032,7 +968,6 @@
     "translation": "Singa",
     "emoji": "🦁",
     "image": "/images/animals/animals-05.svg",
-    "audio": "/audio/animals/animals-05.mp3",
     "example": {
       "arabic": "الأَسَدُ قَوِيٌّ",
       "translation": "Singa itu kuat."
@@ -1048,7 +983,6 @@
     "translation": "Gajah",
     "emoji": "🐘",
     "image": "/images/animals/animals-06.svg",
-    "audio": "/audio/animals/animals-06.mp3",
     "example": {
       "arabic": "الفِيلُ كَبِيرٌ",
       "translation": "Gajah itu besar."
@@ -1064,7 +998,6 @@
     "translation": "Kuda",
     "emoji": "🐎",
     "image": "/images/animals/animals-07.svg",
-    "audio": "/audio/animals/animals-07.mp3",
     "example": {
       "arabic": "الحِصَانُ سَرِيعٌ",
       "translation": "Kuda itu cepat."
@@ -1080,7 +1013,6 @@
     "translation": "Sapi",
     "emoji": "🐄",
     "image": "/images/animals/animals-08.svg",
-    "audio": "/audio/animals/animals-08.mp3",
     "example": {
       "arabic": "البَقَرَةُ تَأْكُلُ",
       "translation": "Sapi itu makan."
@@ -1096,7 +1028,6 @@
     "translation": "Kelinci",
     "emoji": "🐇",
     "image": "/images/animals/animals-09.svg",
-    "audio": "/audio/animals/animals-09.mp3",
     "example": {
       "arabic": "الأَرْنَبُ صَغِيرٌ",
       "translation": "Kelinci itu kecil."
@@ -1112,7 +1043,6 @@
     "translation": "Monyet",
     "emoji": "🐒",
     "image": "/images/animals/animals-10.svg",
-    "audio": "/audio/animals/animals-10.mp3",
     "example": {
       "arabic": "القِرْدُ يَقْفِزُ",
       "translation": "Monyet itu melompat."
@@ -1128,7 +1058,6 @@
     "translation": "Merah",
     "emoji": "🟥",
     "image": "/images/colors/colors-01.svg",
-    "audio": "/audio/colors/colors-01.mp3",
     "example": {
       "arabic": "التُّفَّاحُ أَحْمَرُ",
       "translation": "Apel itu merah."
@@ -1144,7 +1073,6 @@
     "translation": "Biru",
     "emoji": "🟦",
     "image": "/images/colors/colors-02.svg",
-    "audio": "/audio/colors/colors-02.mp3",
     "example": {
       "arabic": "البَحْرُ أَزْرَقُ",
       "translation": "Laut itu biru."
@@ -1160,7 +1088,6 @@
     "translation": "Hijau",
     "emoji": "🟩",
     "image": "/images/colors/colors-03.svg",
-    "audio": "/audio/colors/colors-03.mp3",
     "example": {
       "arabic": "العُشْبُ أَخْضَرُ",
       "translation": "Rumput itu hijau."
@@ -1176,7 +1103,6 @@
     "translation": "Kuning",
     "emoji": "🟨",
     "image": "/images/colors/colors-04.svg",
-    "audio": "/audio/colors/colors-04.mp3",
     "example": {
       "arabic": "المَوْزُ أَصْفَرُ",
       "translation": "Pisang itu kuning."
@@ -1192,7 +1118,6 @@
     "translation": "Putih",
     "emoji": "⬜",
     "image": "/images/colors/colors-05.svg",
-    "audio": "/audio/colors/colors-05.mp3",
     "example": {
       "arabic": "الحَلِيبُ أَبْيَضُ",
       "translation": "Susu itu putih."
@@ -1208,7 +1133,6 @@
     "translation": "Hitam",
     "emoji": "⬛",
     "image": "/images/colors/colors-06.svg",
-    "audio": "/audio/colors/colors-06.mp3",
     "example": {
       "arabic": "اللَّيْلُ أَسْوَدُ",
       "translation": "Malam itu hitam."
@@ -1224,7 +1148,6 @@
     "translation": "Cokelat",
     "emoji": "🟫",
     "image": "/images/colors/colors-07.svg",
-    "audio": "/audio/colors/colors-07.mp3",
     "example": {
       "arabic": "الخَشَبُ بُنِّيٌّ",
       "translation": "Kayu itu cokelat."
@@ -1240,7 +1163,6 @@
     "translation": "Merah muda",
     "emoji": "🩷",
     "image": "/images/colors/colors-08.svg",
-    "audio": "/audio/colors/colors-08.mp3",
     "example": {
       "arabic": "الوَرْدُ وَرْدِيٌّ",
       "translation": "Bunga itu merah muda."
@@ -1256,7 +1178,6 @@
     "translation": "Oranye",
     "emoji": "🟠",
     "image": "/images/colors/colors-09.svg",
-    "audio": "/audio/colors/colors-09.mp3",
     "example": {
       "arabic": "اللَّوْنُ بُرْتُقَالِيٌّ",
       "translation": "Warnanya oranye."
@@ -1272,7 +1193,6 @@
     "translation": "Abu-abu",
     "emoji": "🩶",
     "image": "/images/colors/colors-10.svg",
-    "audio": "/audio/colors/colors-10.mp3",
     "example": {
       "arabic": "السَّحَابُ رَمَادِيٌّ",
       "translation": "Awan itu abu-abu."
@@ -1288,7 +1208,6 @@
     "translation": "Kemeja",
     "emoji": "👔",
     "image": "/images/clothes/clothes-01.svg",
-    "audio": "/audio/clothes/clothes-01.mp3",
     "example": {
       "arabic": "هَذَا قَمِيصٌ",
       "translation": "Ini kemeja."
@@ -1304,7 +1223,6 @@
     "translation": "Celana",
     "emoji": "👖",
     "image": "/images/clothes/clothes-02.svg",
-    "audio": "/audio/clothes/clothes-02.mp3",
     "example": {
       "arabic": "السِّرْوَالُ جَدِيدٌ",
       "translation": "Celana itu baru."
@@ -1320,7 +1238,6 @@
     "translation": "Gaun",
     "emoji": "👗",
     "image": "/images/clothes/clothes-03.svg",
-    "audio": "/audio/clothes/clothes-03.mp3",
     "example": {
       "arabic": "الفُسْتَانُ جَمِيلٌ",
       "translation": "Gaun itu indah."
@@ -1336,7 +1253,6 @@
     "translation": "Sepatu",
     "emoji": "👟",
     "image": "/images/clothes/clothes-04.svg",
-    "audio": "/audio/clothes/clothes-04.mp3",
     "example": {
       "arabic": "الحِذَاءُ نَظِيفٌ",
       "translation": "Sepatu itu bersih."
@@ -1352,7 +1268,6 @@
     "translation": "Kaos kaki",
     "emoji": "🧦",
     "image": "/images/clothes/clothes-05.svg",
-    "audio": "/audio/clothes/clothes-05.mp3",
     "example": {
       "arabic": "هَذَا جَوْرَبٌ",
       "translation": "Ini kaos kaki."
@@ -1368,7 +1283,6 @@
     "translation": "Topi",
     "emoji": "🧢",
     "image": "/images/clothes/clothes-06.svg",
-    "audio": "/audio/clothes/clothes-06.mp3",
     "example": {
       "arabic": "أَلْبَسُ قُبَّعَةً",
       "translation": "Saya memakai topi."
@@ -1384,7 +1298,6 @@
     "translation": "Mantel",
     "emoji": "🧥",
     "image": "/images/clothes/clothes-07.svg",
-    "audio": "/audio/clothes/clothes-07.mp3",
     "example": {
       "arabic": "المِعْطَفُ دَافِئٌ",
       "translation": "Mantel itu hangat."
@@ -1400,7 +1313,6 @@
     "translation": "Ikat pinggang",
     "emoji": "🪢",
     "image": "/images/clothes/clothes-08.svg",
-    "audio": "/audio/clothes/clothes-08.mp3",
     "example": {
       "arabic": "هَذَا حِزَامٌ",
       "translation": "Ini ikat pinggang."
@@ -1416,7 +1328,6 @@
     "translation": "Kacamata",
     "emoji": "👓",
     "image": "/images/clothes/clothes-09.svg",
-    "audio": "/audio/clothes/clothes-09.mp3",
     "example": {
       "arabic": "أَلْبَسُ النَّظَّارَةَ",
       "translation": "Saya memakai kacamata."
@@ -1432,7 +1343,6 @@
     "translation": "Hijab",
     "emoji": "🧕",
     "image": "/images/clothes/clothes-10.svg",
-    "audio": "/audio/clothes/clothes-10.mp3",
     "example": {
       "arabic": "الحِجَابُ أَزْرَقُ",
       "translation": "Hijab itu biru."
@@ -1448,7 +1358,6 @@
     "translation": "Mobil",
     "emoji": "🚗",
     "image": "/images/transport/transport-01.svg",
-    "audio": "/audio/transport/transport-01.mp3",
     "example": {
       "arabic": "هَذِهِ سَيَّارَةٌ",
       "translation": "Ini mobil."
@@ -1464,7 +1373,6 @@
     "translation": "Bus",
     "emoji": "🚌",
     "image": "/images/transport/transport-02.svg",
-    "audio": "/audio/transport/transport-02.mp3",
     "example": {
       "arabic": "الحَافِلَةُ كَبِيرَةٌ",
       "translation": "Bus itu besar."
@@ -1480,7 +1388,6 @@
     "translation": "Kereta",
     "emoji": "🚆",
     "image": "/images/transport/transport-03.svg",
-    "audio": "/audio/transport/transport-03.mp3",
     "example": {
       "arabic": "القِطَارُ سَرِيعٌ",
       "translation": "Kereta itu cepat."
@@ -1496,7 +1403,6 @@
     "translation": "Pesawat",
     "emoji": "✈️",
     "image": "/images/transport/transport-04.svg",
-    "audio": "/audio/transport/transport-04.mp3",
     "example": {
       "arabic": "الطَّائِرَةُ فِي السَّمَاءِ",
       "translation": "Pesawat berada di langit."
@@ -1512,7 +1418,6 @@
     "translation": "Sepeda",
     "emoji": "🚲",
     "image": "/images/transport/transport-05.svg",
-    "audio": "/audio/transport/transport-05.mp3",
     "example": {
       "arabic": "أَرْكَبُ الدَّرَّاجَةَ",
       "translation": "Saya naik sepeda."
@@ -1528,7 +1433,6 @@
     "translation": "Sepeda motor",
     "emoji": "🏍️",
     "image": "/images/transport/transport-06.svg",
-    "audio": "/audio/transport/transport-06.mp3",
     "example": {
       "arabic": "هَذِهِ دَرَّاجَةٌ نَارِيَّةٌ",
       "translation": "Ini sepeda motor."
@@ -1544,7 +1448,6 @@
     "translation": "Kapal",
     "emoji": "🚢",
     "image": "/images/transport/transport-07.svg",
-    "audio": "/audio/transport/transport-07.mp3",
     "example": {
       "arabic": "السَّفِينَةُ فِي البَحْرِ",
       "translation": "Kapal berada di laut."
@@ -1560,7 +1463,6 @@
     "translation": "Taksi",
     "emoji": "🚕",
     "image": "/images/transport/transport-08.svg",
-    "audio": "/audio/transport/transport-08.mp3",
     "example": {
       "arabic": "أُرِيدُ سَيَّارَةَ أُجْرَةٍ",
       "translation": "Saya ingin taksi."
@@ -1576,7 +1478,6 @@
     "translation": "Truk",
     "emoji": "🚚",
     "image": "/images/transport/transport-09.svg",
-    "audio": "/audio/transport/transport-09.mp3",
     "example": {
       "arabic": "الشَّاحِنَةُ كَبِيرَةٌ",
       "translation": "Truk itu besar."
@@ -1592,7 +1493,6 @@
     "translation": "Kereta bawah tanah",
     "emoji": "🚇",
     "image": "/images/transport/transport-10.svg",
-    "audio": "/audio/transport/transport-10.mp3",
     "example": {
       "arabic": "أَرْكَبُ المِتْرُو",
       "translation": "Saya naik metro."
@@ -1608,7 +1508,6 @@
     "translation": "Pohon",
     "emoji": "🌳",
     "image": "/images/nature/nature-01.svg",
-    "audio": "/audio/nature/nature-01.mp3",
     "example": {
       "arabic": "هَذِهِ شَجَرَةٌ",
       "translation": "Ini pohon."
@@ -1624,7 +1523,6 @@
     "translation": "Bunga",
     "emoji": "🌸",
     "image": "/images/nature/nature-02.svg",
-    "audio": "/audio/nature/nature-02.mp3",
     "example": {
       "arabic": "الزَّهْرَةُ جَمِيلَةٌ",
       "translation": "Bunga itu indah."
@@ -1640,7 +1538,6 @@
     "translation": "Matahari",
     "emoji": "☀️",
     "image": "/images/nature/nature-03.svg",
-    "audio": "/audio/nature/nature-03.mp3",
     "example": {
       "arabic": "الشَّمْسُ مُشْرِقَةٌ",
       "translation": "Matahari bersinar."
@@ -1656,7 +1553,6 @@
     "translation": "Bulan",
     "emoji": "🌙",
     "image": "/images/nature/nature-04.svg",
-    "audio": "/audio/nature/nature-04.mp3",
     "example": {
       "arabic": "القَمَرُ جَمِيلٌ",
       "translation": "Bulan itu indah."
@@ -1672,7 +1568,6 @@
     "translation": "Bintang",
     "emoji": "⭐",
     "image": "/images/nature/nature-05.svg",
-    "audio": "/audio/nature/nature-05.mp3",
     "example": {
       "arabic": "النَّجْمُ لَامِعٌ",
       "translation": "Bintang itu bercahaya."
@@ -1688,7 +1583,6 @@
     "translation": "Laut",
     "emoji": "🌊",
     "image": "/images/nature/nature-06.svg",
-    "audio": "/audio/nature/nature-06.mp3",
     "example": {
       "arabic": "البَحْرُ وَاسِعٌ",
       "translation": "Laut itu luas."
@@ -1704,7 +1598,6 @@
     "translation": "Gunung",
     "emoji": "⛰️",
     "image": "/images/nature/nature-07.svg",
-    "audio": "/audio/nature/nature-07.mp3",
     "example": {
       "arabic": "الجَبَلُ عَالٍ",
       "translation": "Gunung itu tinggi."
@@ -1720,7 +1613,6 @@
     "translation": "Sungai",
     "emoji": "🏞️",
     "image": "/images/nature/nature-08.svg",
-    "audio": "/audio/nature/nature-08.mp3",
     "example": {
       "arabic": "النَّهْرُ طَوِيلٌ",
       "translation": "Sungai itu panjang."
@@ -1736,7 +1628,6 @@
     "translation": "Hujan",
     "emoji": "🌧️",
     "image": "/images/nature/nature-09.svg",
-    "audio": "/audio/nature/nature-09.mp3",
     "example": {
       "arabic": "المَطَرُ غَزِيرٌ",
       "translation": "Hujan itu lebat."
@@ -1752,7 +1643,6 @@
     "translation": "Langit",
     "emoji": "🌤️",
     "image": "/images/nature/nature-10.svg",
-    "audio": "/audio/nature/nature-10.mp3",
     "example": {
       "arabic": "السَّمَاءُ صَافِيَةٌ",
       "translation": "Langit cerah."
@@ -1768,7 +1658,6 @@
     "translation": "Nol",
     "emoji": "0️⃣",
     "image": "/images/numbers/numbers-01.svg",
-    "audio": "/audio/numbers/numbers-01.mp3",
     "example": {
       "arabic": "الرَّقْمُ صِفْرٌ",
       "translation": "Angkanya nol."
@@ -1784,7 +1673,6 @@
     "translation": "Satu",
     "emoji": "1️⃣",
     "image": "/images/numbers/numbers-02.svg",
-    "audio": "/audio/numbers/numbers-02.mp3",
     "example": {
       "arabic": "عِنْدِي كِتَابٌ وَاحِدٌ",
       "translation": "Saya punya satu buku."
@@ -1800,7 +1688,6 @@
     "translation": "Dua",
     "emoji": "2️⃣",
     "image": "/images/numbers/numbers-03.svg",
-    "audio": "/audio/numbers/numbers-03.mp3",
     "example": {
       "arabic": "عِنْدِي قَلَمَانِ",
       "translation": "Saya punya dua pulpen."
@@ -1816,7 +1703,6 @@
     "translation": "Tiga",
     "emoji": "3️⃣",
     "image": "/images/numbers/numbers-04.svg",
-    "audio": "/audio/numbers/numbers-04.mp3",
     "example": {
       "arabic": "عِنْدِي ثَلَاثَةُ كُتُبٍ",
       "translation": "Saya punya tiga buku."
@@ -1832,7 +1718,6 @@
     "translation": "Empat",
     "emoji": "4️⃣",
     "image": "/images/numbers/numbers-05.svg",
-    "audio": "/audio/numbers/numbers-05.mp3",
     "example": {
       "arabic": "عِنْدِي أَرْبَعَةُ أَقْلَامٍ",
       "translation": "Saya punya empat pulpen."
@@ -1848,7 +1733,6 @@
     "translation": "Lima",
     "emoji": "5️⃣",
     "image": "/images/numbers/numbers-06.svg",
-    "audio": "/audio/numbers/numbers-06.mp3",
     "example": {
       "arabic": "عِنْدِي خَمْسَةُ أَقْلَامٍ",
       "translation": "Saya punya lima pulpen."
@@ -1864,7 +1748,6 @@
     "translation": "Enam",
     "emoji": "6️⃣",
     "image": "/images/numbers/numbers-07.svg",
-    "audio": "/audio/numbers/numbers-07.mp3",
     "example": {
       "arabic": "السَّاعَةُ السَّادِسَةُ",
       "translation": "Sekarang pukul enam."
@@ -1880,7 +1763,6 @@
     "translation": "Tujuh",
     "emoji": "7️⃣",
     "image": "/images/numbers/numbers-08.svg",
-    "audio": "/audio/numbers/numbers-08.mp3",
     "example": {
       "arabic": "عِنْدِي سَبْعَةُ أَيَّامٍ",
       "translation": "Saya punya tujuh hari."
@@ -1896,7 +1778,6 @@
     "translation": "Delapan",
     "emoji": "8️⃣",
     "image": "/images/numbers/numbers-09.svg",
-    "audio": "/audio/numbers/numbers-09.mp3",
     "example": {
       "arabic": "عِنْدِي ثَمَانِيَةُ كُتُبٍ",
       "translation": "Saya punya delapan buku."
@@ -1912,7 +1793,6 @@
     "translation": "Sembilan",
     "emoji": "9️⃣",
     "image": "/images/numbers/numbers-10.svg",
-    "audio": "/audio/numbers/numbers-10.mp3",
     "example": {
       "arabic": "عِنْدِي تِسْعَةُ أَقْلَامٍ",
       "translation": "Saya punya sembilan pulpen."
